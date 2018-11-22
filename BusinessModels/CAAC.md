@@ -34,7 +34,7 @@ This page contains the business model for the Context-Aware Access Control tool.
     <td rowspan="1">
       <b>Existing Alternatives</b> </td>
     <td rowspan="1">
-      <p>Current situation: 
+      <p>
         
 * Today, no protocol can deliver dynamic authorization based on context for both IT and OT (operational technologies) domains.
 * Cloud computing infrastructures do not use dynamic access control, but static traditional mechanisms, despite the highly dynamic nature of cloud computing capabilities.
