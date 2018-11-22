@@ -24,16 +24,11 @@ This page contains the business model for the Actuation Conflict Management & Be
     </td>
     <td>
       <b>Solution</b>
-      <p>Top 3 features</p>
+      <p>Tools to detect actuation conflicts, to design actuation managers, to monitor behavioral drift  of the actuation systems.</p>
     </td>
     <td rowspan="2" colspan="2">
       <b>Unique Value Proposition</b>
-      <p>Single, clear, <br>
-      compelling message <br>
-      that states why you <br>
-      are different and <br>
-      worth paying <br>
-      attention</p>
+      <p>Tools for actuation conflict detection and management in IoT Systems </p>
       <br><br><br><br><br>
     </td>
     <td>
