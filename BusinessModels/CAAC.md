@@ -136,7 +136,13 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b>Value added by the solution</b>
     </td>
     <td rowspan="1">
-      <p>Tools for actuation conflict detection and management in IoT Systems  </p>
+      <p>
+
+- The resulting IAM offer will deliver new access control mechanisms for authorizing access to industrial objects, with ad hoc protocols, while still being able to address traditional access to IT applications. 
+
+- The resulting IAM offer will in addition secure the access to applications and APIs.
+
+- The authorization decisions will take privacy risk  values into account. Consent management will be enforced by the resulting IAM offer.  </p>
     </td>
   </tr>
 </table>
