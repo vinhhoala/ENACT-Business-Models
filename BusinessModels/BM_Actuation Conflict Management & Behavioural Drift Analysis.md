@@ -77,29 +77,19 @@ This page contains the business model for the Actuation Conflict Management & Be
 
 <table>
   <tr>
-    <td rowspan="2">
+    <td rowspan="1">
       <b>Problem</b>
       <p>New generation of IoT applications are  not only for data collecting on the field but also to control  actuation systems.  They become critical system and need  tools to detect and manage actuation conflic and toward more trustworthlyness. </p>
       <b>Existing Alternatives</b>
       <p>Currently actuation systems are controlled with Ad-Hoc monitors. These approaches are not well-adapted for Devops methodology and  large scale IoT platforms</p>
     </td>
-    <td>
-      <b>Solution</b>
-      <p>Tools to detect actuation conflicts, to design actuation managers, to monitor behavioral drift  of the actuation systems.</p>
-    </td>
     <td rowspan="2" colspan="2">
       <b>Unique Value Proposition</b>
       <p>Tools for actuation conflict detection and management in IoT Systems </p>
-      <br><br><br><br><br>
-    </td>
-    <td>
-</tr>
-  <tr>
-    <td colspan="3">
       <b>Cost Structure</b>
-      <p>Customer Acquisition Costs <br>
-      Distribution Costs <br>
-      Hosting <br>
+      <p>Customer Acquisition Costs
+      Distribution Costs
+      Hosting
       People, etc.</p>
     </td>
       </tr>
