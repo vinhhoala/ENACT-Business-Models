@@ -27,4 +27,5 @@ The results genreated in ENACT aim to provide new business models, activities an
 From these perspectives, all of the ENACT partners have carried out a wide range of activities (developments, market and technical research, etc.) that have allowed them to identify products, services and other exploitation forms to be pursued and in some cases commercialized once ENACT is concluded. Uisng the Lean Canvas as a framework, they have produced business models for the ENACT results: 
 
 * The main innovations resulting from the project are the set of enablers and tools; for each one of these tools, the partners of ENACT have produced a business model.
+
 * Each of the use cases deployed in the project represent different business opportunities in the eHealth, Smart Buildings/Cities and Intelligent Transport Systems domains, in which these tools are tested and developed to unleash new applications and solutions. For these domains and results, the partners involved have produced business models.
