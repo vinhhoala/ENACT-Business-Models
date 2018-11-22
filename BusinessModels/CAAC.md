@@ -187,7 +187,8 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b>Segment</b>
     </td>
     <td rowspan="1">
-      <p>Cybersecurity products / Identity & Access Management</p>
+      <p>Cybersecurity products / Identity & Access Management
+    </p>
     </td>
   </tr>
 </table>
@@ -215,7 +216,7 @@ Most marketing communication is channelled through the Evidian web site.
 Sales and training material.
 
 Press release and communications about the new product offer.
-      </p>
+     </p>
     </td>
   </tr>
    <tr>
@@ -233,7 +234,7 @@ Channels that will be used to distribute the solution:
 
 * Indirect sales via Evidian network or resellers and integrators.
 
-      </p>
+   </p>
     </td>
   </tr>
 </table>
@@ -279,7 +280,7 @@ ECC can provide the folowing type of services:
   * Turnkey projects for end customer including: installation, configuration, customisation, training and rollout support,
   * Expertise for partners to securise their project or to customers that implement themself the product. The level of ECC implication depends on the maturity of the partner or customer.
   * Post implementation services; training the system operators, usage, maintenance in operational condition, etc.
-      </p>
+     </p>
     </td>
   </tr>
 </table>
@@ -301,24 +302,25 @@ ECC can provide the folowing type of services:
       <p>Main sources of revenue:
 
 * Licences: Perpetual Licenses on a One-Time Fee basis.
-The price is  based on the number of users and then  OPTIONS can be ordered.
+  The price is  based on the number of users and then  OPTIONS can be ordered.
 
-Minimal order is 100 users, with degressive pricing points at 500, 1000, 3000, 5000, 7500, 10000, 15000, 25000, 50000, 100000, 200000, 500000 and 1000000 users. 
-Pricing for larger deployments and site licences are directly negotiated on a case by case basis.
-Special Pricing is proposed for external users, CUSTOMERS mitigating the price with a 0,25 ratio.
-Special Pricing is proposed for external users, BUSINESS PARTNERS mitigating the price with a 0,50 ratio.
+  Minimal order is 100 users, with degressive pricing points at 500, 1000, 3000, 5000, 7500, 10000, 15000, 25000, 50000, 100000, 200000, 500000 and 1000000 users. 
+  Pricing for larger deployments and site licences are directly negotiated on a case by case basis.
+  Special Pricing is proposed for external users, CUSTOMERS mitigating the price with a 0,25 ratio.
+  Special Pricing is proposed for external users, BUSINESS PARTNERS mitigating the price with a 0,50 ratio.
 
 In addition, two criteria can significally change the price:
 - A global purchase order for the total number of users, rather than an incremental purchase;
 - The fact that more than one product is ordered.
 
-OBVIOUSLY taking into account the competition we are facing can also significantly change the pricing offered as well as knowledge of customer budget
+  OBVIOUSLY taking into account the competition we are facing can also significantly change the pricing offered as well as knowledge of customer budget
 
 * Support & Maintenance: To benefit from updates, in the case of Perpetual Licenses, a customer must subscribe to a Standard Support & Maintenance contract which also gives access to a number of other Support & Maintenance services. List Price of the Standard Support & Maintenance contract is calculated at a yearly rate of 20% of the License Fee list price. 
 
 * POC: Proof of Concept in customer environment
 
-* Professional Services: Evidian delivers a specific catalog of professional services for all these operations.</p>
+* Professional Services: Evidian delivers a specific catalog of professional services for all these operations.
+</p>
     </td>
   </tr>
 </table>
