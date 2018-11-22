@@ -12,11 +12,13 @@ This page contains the business model for the Actuation Conflict Management & Be
 
 **Type:** IoT  platform provider with Actuation Conflict Management and Behaviroural Drift Analysis
 
+## Lean Canvas
+
 <table>
   <tr>
     <td rowspan="2">
       <b>Problem</b>
-      <p>Top 3 Problems</p>
+      <p>New generation of IoT applications are  not only for data collecting on the field but also to control  actuation systems.  They become critical system and need  tools to detect and manage actuation conflic and toward more trustworthlyness.  </p>
     </td>
     <td>
       <b>Solution</b>
