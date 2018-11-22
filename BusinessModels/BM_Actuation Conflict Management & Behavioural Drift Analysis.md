@@ -79,6 +79,8 @@ This page contains the business model for the Actuation Conflict Management & Be
   <tr>
     <td rowspan="1">
       <b>Customer needs, requests and opportunities from the market</b>
+    </td>
+    <td rowspan="1">
       <p>New generation of IoT applications are  not only for data collecting on the field but also to control  actuation systems.  They become critical system and need  tools to detect and manage actuation conflic and toward more trustworthlyness. </p>
     </td>
   </tr>
