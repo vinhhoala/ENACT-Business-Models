@@ -38,8 +38,7 @@ This page contains the business model for the Context-Aware Access Control tool.
         
 * Today, no protocol can deliver dynamic authorization based on context for both IT and OT (operational technologies) domains. 
 * Cloud computing infrastructures do not use dynamic access control, but static traditional mechanisms, despite the highly dynamic nature of cloud computing capabilities.
-* As the number of connected devices increases more and more, the related security risks are more and more important.
-</p>
+* As the number of connected devices increases more and more, the related security risks are more and more important.</p>
     </td>
       </tr>
 </table>
