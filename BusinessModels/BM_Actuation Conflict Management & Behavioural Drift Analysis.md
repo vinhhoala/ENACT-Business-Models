@@ -1,8 +1,15 @@
-# Actuation Conflict Management & Behavioural Drift Analysis Business Model
+# Actuation Conflict Management & Behavioural Drift Analysis - Business Model
 
-This 
+This page contains the business model for the Actuation Conflict Management & Behavioural Drift Analysis tools.
 
 ![alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/ACM%26BDA.png)
+
+## Main Contributor
+
+Partner | CNRS
+------------ | -------------
+Category | Academic
+Type | IoT  platform provider with Actuation Conflict Management and Behaviroural Drift Analysis
 
 <table>
   <tr>
