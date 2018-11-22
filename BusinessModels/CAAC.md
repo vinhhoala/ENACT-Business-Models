@@ -145,6 +145,14 @@ The context-aware risk-based authorization server will be integrated in the Evid
 - The authorization decisions will take privacy risk  values into account. Consent management will be enforced by the resulting IAM offer.  </p>
     </td>
   </tr>
+  <tr>
+    <td rowspan="1">
+      <b>Unfair Advantage</b>
+    </td>
+    <td rowspan="1">
+      <p>Evidian, now a member of the ATOS Group, is a French Independent Software Vendor with a worldwide presence based on subsidiaries and a network of 70 partners. It is the European leader in identity and access management software, with 16 years experience. Evidian identity and access management solutions help over 800 organizations in the world improve their agility, enhance security and comply with laws and regulations, while reducing costs. </p>
+    </td>
+  </tr>
 </table>
 
 ### Customer Segments
@@ -155,7 +163,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b>Type</b>
     </td>
     <td rowspan="1">
-      <p>App Developer</p>
+      <p>End Usersr</p>
     </td>
   </tr>
     <tr>
@@ -163,7 +171,14 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b>Potential customers</b>
     </td>
     <td rowspan="1">
-      <p>Software company that wants to provide a new software IoT Platform with new tools for more trustworthlyness in design and monitoring.</p>
+      <p>
+- Manufacturing (equipements for smart buildings, car manufacturers, aeronautics)
+        
+- Healthcare domain (hospitals, telemedecine environments)
+
+- Transport
+
+- Utilities </p>
     </td>
   </tr>
   <tr>
