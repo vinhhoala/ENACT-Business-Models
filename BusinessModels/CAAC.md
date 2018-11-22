@@ -114,9 +114,8 @@ The context-aware risk-based authorization server will be integrated in the Evid
     </td>
     <td rowspan="1">
       <p>
-* MS 1 - Middle of ENACT's lifetime: Testing new technology is under progress and TRL 3 reached. Partial results promoted towards Product Line Management. Step 1 in the company Product Life Cycle Management process: formal decision to include in the official roadmap.
-
-* MS 2 -  End of ENACT: Step 2 of the Product Life Cycle Management: GO for industrialization and announcement.  TRL 6/7 reached for some parts TRL8/9. Product management team prepares sales and training material, Delivery team prepares software distribution, Support team prepares helpdesk processes. Revenue increase.
+        * MS 1 - Middle of ENACT's lifetime: Testing new technology is under progress and TRL 3 reached. Partial results promoted towards Product Line Management. Step 1 in the company Product Life Cycle Management process: formal decision to include in the official roadmap.
+        * MS 2 -  End of ENACT: Step 2 of the Product Life Cycle Management: GO for industrialization and announcement.  TRL 6/7 reached for some parts TRL8/9. Product management team prepares sales and training material, Delivery team prepares software distribution, Support team prepares helpdesk processes. Revenue increase.
 
 * MS 3 -  After end of ENACT (2 years): Step 3 of the Life Cycle Management (max 6 months after the end of the project): GO for General Shipment.  Press release and communications about the new product offer, now on sale.
 
