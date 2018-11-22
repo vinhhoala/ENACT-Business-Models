@@ -4,23 +4,23 @@ A business model describes the process followed by an organization to create, de
 
 The Business Model Canvas proposed by Osterwalder and Pigneur was later adapted by Ash Maurya (2010) into the Lean Canvas. This framework modifies some of the elements of the Business Model Canvas to open it to start-ups, small and large organizations. Thus, the Lean Canvas conserves some of the elements from the Business Model Canvas (customers, channels, cost structure, revenue streams), omits others (key activities and key resources, customer relationships and key partners) and introduces new ones: problem, solution, key metrics and unfair advantage:
 
-* _Problem_: it is essential to understand in the first place what are the problems and needs that the solution you are proposing is addressing and solving for your existing/potential customers, including the existing alternatives available.
+* **Problem**: it is essential to understand in the first place what are the problems and needs that the solution you are proposing is addressing and solving for your existing/potential customers, including the existing alternatives available.
 
-* _Customer segments_: these are the different groups of existing and potential customers that share similar problems and needs to be solved and met by the solution created by the organization.
+* **Customer segments**: these are the different groups of existing and potential customers that share similar problems and needs to be solved and met by the solution created by the organization.
 
-* _Solution_: This element gives an answer to the customer segments for the problems and needs identified.
+* **Solution**: This element gives an answer to the customer segments for the problems and needs identified.
 
-* _Unique Value Proposition_: this element explains how the solution proposed will create value to the customers.
+* **Unique Value Proposition**: this element explains how the solution proposed will create value to the customers.
 
-* _Unfair Advantage_: this element describes the competitive advantage that the organization possesses that cannot be copied nor bought.
+* **Unfair Advantage**: this element describes the competitive advantage that the organization possesses that cannot be copied nor bought.
 
-* _Channels_: this element covers the means for the delivery of value (the solution) to the customer segments (including promotion and distribution).
+* **Channels**: this element covers the means for the delivery of value (the solution) to the customer segments (including promotion and distribution).
 
-* _Key Metrics_: this element includes all the metrics that the organization will use to monitor and measure the performance and success.
+* **Key Metrics**: this element includes all the metrics that the organization will use to monitor and measure the performance and success.
 
-* _Cost structure_: this element represents the financial infrastructure required to support the creation and delivery of value to the customers.
+* **Cost structure**: this element represents the financial infrastructure required to support the creation and delivery of value to the customers.
 
-* _Revenue streams_: this element represents the mechanisms and sources for financing and capturing value as a result of the delivery of the solution.
+* **Revenue streams**: this element represents the mechanisms and sources for financing and capturing value as a result of the delivery of the solution.
 
 # Exploitation of ENACT results through Business Models
 The results genreated in ENACT aim to provide new business models, activities and projects to the IoT, edge and cloud communities. Using ENACT's agile approach and its innovative enablers and tools, organizations can reduce cost while improving design, operation and maintenance efficiency of smart IoT systems. The profile of the partners involved in the project ensure a great representation of IoT and DevOps stakeholders: IoT Platform Providers, Smart IoT System Providers, IoT Infrastructure Providers and DevOps Tools and Solutions Providers, and thus can show how the implementation of the innovations produced in ENACT can have a positive imapct for the European market.
