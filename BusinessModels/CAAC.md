@@ -199,7 +199,23 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b>Promotion</b>
     </td>
     <td rowspan="1">
-      <p>conferences, journals, demonstrations, workshops </p>
+      <p>
+
+Channels that will be used to promote the solution:
+
+* Mailing and web advertizing
+
+* Twitter (@evidian) and LinkedIn. YouTube channel (EvidianIAM).
+
+* Major events and exhibitions such as Infosecurity (UK and Belgium), Gartner IAM Summit (UK), European Identity Conference (Germany), Les Assises (France), and Japan IT Week / Information Security Expo 
+
+* Publications in specialized magasins (e.g. DSIH or MySIH in France for the healthcare market). 
+
+Most marketing communication is channelled through the Evidian web site. 
+Sales and training material.
+
+Press release and communications about the new product offer.
+      </p>
     </td>
   </tr>
    <tr>
@@ -207,11 +223,66 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b>Distribution</b>
     </td>
     <td rowspan="1">
-      <p>publications,  courses, hackatons</p>
+      <p>
+ 
+Channels that will be used to distribute the solution:
+
+* Direct sales via the Evidian dedicated sales forces.
+
+* Sales via the Evidian mother company Atos.
+
+* Indirect sales via Evidian network or resellers and integrators.
+
+      </p>
     </td>
   </tr>
 </table>
 
+### Cost Structure
+<table>
+  <tr>
+    <td rowspan="1">
+      <b>Cost of implementation </b>
+    </td>
+    <td rowspan="1">
+      <p>
+
+Cost du bring product/service to the “market” (before Exploitation):
+
+* Cost of 1 P.Y. for Product Management: define product pricing, train presales and support personnel
+
+* Cost of 1 P.Y. for Product Marketing and Communication: build collaterals, deliver marketing materials, organize communication events
+      
+      </p>
+    </td>
+  </tr>
+   <tr>
+    <td rowspan="1">
+      <b> Cost Sources</b>
+    </td>
+    <td rowspan="1">
+      <p>
+      
+Main sources that would produce a cost for the development and deployment of the solution proposed:
+
+* R&D Team: Development of the product
+
+* Support & Maintenance team: Provides the customer with Support and Maintenance on the installed product.
+Two levels of support:
+    * Standard support with remote assistance during business hours and SLA limited on reaction time.
+    * Platinum support, a personalized support with nomination of a  Technical Support Account Manager, and specific SLA. 
+
+* Presales & Marketing team
+
+* Professional Services team: The Evidian Expertise Centre (ECC) makes their experts available for end users & partners.
+ECC can provide the folowing type of services:
+  * Turnkey projects for end customer including: installation, configuration, customisation, training and rollout support,
+  * Expertise for partners to securise their project or to customers that implement themself the product. The level of ECC implication depends on the maturity of the partner or customer.
+  * Post implementation services; training the system operators, usage, maintenance in operational condition, etc.
+      </p>
+    </td>
+  </tr>
+</table>
 ### Revenue Streams
 <table>
   <tr>
@@ -219,7 +290,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b>Sources of financing foreseen after the end of the project </b>
     </td>
     <td rowspan="1">
-      <p>licences fees, training, consulting </p>
+      <p>Funding after the end of the project: product extensions will be funded by standard R&D budget, since the outcome of ENACT for Evidian will be a standard product in the offer. </p>
     </td>
   </tr>
    <tr>
@@ -227,7 +298,27 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b> Revenue Sources</b>
     </td>
     <td rowspan="1">
-      <p>companies, training organizations</p>
+      <p>Main sources of revenue:
+
+* Licences: Perpetual Licenses on a One-Time Fee basis.
+The price is  based on the number of users and then  OPTIONS can be ordered.
+
+Minimal order is 100 users, with degressive pricing points at 500, 1000, 3000, 5000, 7500, 10000, 15000, 25000, 50000, 100000, 200000, 500000 and 1000000 users. 
+Pricing for larger deployments and site licences are directly negotiated on a case by case basis.
+Special Pricing is proposed for external users, CUSTOMERS mitigating the price with a 0,25 ratio.
+Special Pricing is proposed for external users, BUSINESS PARTNERS mitigating the price with a 0,50 ratio.
+
+In addition, two criteria can significally change the price:
+- A global purchase order for the total number of users, rather than an incremental purchase;
+- The fact that more than one product is ordered.
+
+OBVIOUSLY taking into account the competition we are facing can also significantly change the pricing offered as well as knowledge of customer budget
+
+* Support & Maintenance: To benefit from updates, in the case of Perpetual Licenses, a customer must subscribe to a Standard Support & Maintenance contract which also gives access to a number of other Support & Maintenance services. List Price of the Standard Support & Maintenance contract is calculated at a yearly rate of 20% of the License Fee list price. 
+
+* POC: Proof of Concept in customer environment
+
+* Professional Services: Evidian delivers a specific catalog of professional services for all these operations.</p>
     </td>
   </tr>
 </table>
