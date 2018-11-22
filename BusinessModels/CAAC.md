@@ -163,7 +163,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b>Type</b>
     </td>
     <td rowspan="1">
-      <p>End Usersr</p>
+      <p>End Users</p>
     </td>
   </tr>
     <tr>
@@ -254,7 +254,7 @@ Cost du bring product/service to the “market” (before Exploitation):
 
 * Cost of 1 P.Y. for Product Marketing and Communication: build collaterals, deliver marketing materials, organize communication events
       
-      </p>
+     </p>
     </td>
   </tr>
    <tr>
@@ -313,7 +313,7 @@ In addition, two criteria can significally change the price:
 - A global purchase order for the total number of users, rather than an incremental purchase;
 - The fact that more than one product is ordered.
 
-  OBVIOUSLY taking into account the competition we are facing can also significantly change the pricing offered as well as knowledge of customer budget
+OBVIOUSLY taking into account the competition we are facing can also significantly change the pricing offered as well as knowledge of customer budget
 
 * Support & Maintenance: To benefit from updates, in the case of Perpetual Licenses, a customer must subscribe to a Standard Support & Maintenance contract which also gives access to a number of other Support & Maintenance services. List Price of the Standard Support & Maintenance contract is calculated at a yearly rate of 20% of the License Fee list price. 
 
