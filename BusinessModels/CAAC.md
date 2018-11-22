@@ -172,6 +172,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
     </td>
     <td rowspan="1">
       <p>
+        
 - Manufacturing (equipements for smart buildings, car manufacturers, aeronautics)
         
 - Healthcare domain (hospitals, telemedecine environments)
@@ -186,7 +187,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b>Segment</b>
     </td>
     <td rowspan="1">
-      <p>All IoT platform providers</p>
+      <p>Cybersecurity products / Identity & Access Management</p>
     </td>
   </tr>
 </table>
