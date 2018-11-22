@@ -92,3 +92,44 @@ This page contains the business model for the Actuation Conflict Management & Be
     </td>
       </tr>
 </table>
+
+### Solution
+
+<table>
+  <tr>
+    <td rowspan="1">
+      <b>ENACT Result</b>
+    </td>
+    <td rowspan="1">
+      <p>Tools to detect actuation conflicts, to design actuation managers, to monitor behavioral drift  of the actuation systems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="1">
+      <b>Exploitation Form</b> </td>
+    <td rowspan="1">
+      <p>As  an academic partner our contribution will  take the form of  license agreement  for transfer, publications, participation in standards commitees, new university training courses. </p>
+    </td>
+      </tr>
+    <tr>
+    <td rowspan="1">
+      <b>IPR Background </b> </td>
+    <td rowspan="1">
+      <p>Background Knowledge in ENACT : synchronous monitoring model to manage shared resources, execution engine models  for a finite state machine, stochastic models of behavioural drifts, experimental software prototypes like behavioural drift measures.  </p>
+    </td>
+      </tr>
+   <tr>
+    <td rowspan="1">
+      <b>Description </b> </td>
+    <td rowspan="1">
+      <p>Demonstrator, communications & publications, courses material  </p>
+    </td>
+      </tr>
+     <tr>
+    <td rowspan="1">
+      <b>Type</b> </td>
+    <td rowspan="1">
+      <p>New algorithms and models for Knowledge contribution, Open Source (Lesser General Public License) and legacy proprietary Software for prototyping </p>
+    </td>
+      </tr>
+</table>
