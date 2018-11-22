@@ -36,9 +36,10 @@ This page contains the business model for the Context-Aware Access Control tool.
     <td rowspan="1">
       <p>
         
-* Today, no protocol can deliver dynamic authorization based on context for both IT and OT (operational technologies) domains.
+* Today, no protocol can deliver dynamic authorization based on context for both IT and OT (operational technologies) domains. 
 * Cloud computing infrastructures do not use dynamic access control, but static traditional mechanisms, despite the highly dynamic nature of cloud computing capabilities.
-* As the number of connected devices increases more and more, the related security risks are more and more important. </p>
+* As the number of connected devices increases more and more, the related security risks are more and more important.
+</p>
     </td>
       </tr>
 </table>
@@ -51,35 +52,36 @@ This page contains the business model for the Context-Aware Access Control tool.
       <b>ENACT Result</b>
     </td>
     <td rowspan="1">
-      <p>Tools to detect actuation conflicts, to design actuation managers, to monitor behavioral drift  of the actuation systems.</p>
+      <p>Context-Aware Access Control tool</p>
     </td>
   </tr>
   <tr>
     <td rowspan="1">
       <b>Exploitation Form</b> </td>
     <td rowspan="1">
-      <p>As  an academic partner our contribution will  take the form of  license agreement  for transfer, publications, participation in standards commitees, new university training courses. </p>
+      <p>Product (integration into existing offer) </p>
     </td>
       </tr>
     <tr>
     <td rowspan="1">
       <b>IPR Background </b> </td>
     <td rowspan="1">
-      <p>Background Knowledge in ENACT : synchronous monitoring model to manage shared resources, execution engine models  for a finite state machine, stochastic models of behavioural drifts, experimental software prototypes like behavioural drift measures.  </p>
+      <p>Evidian provides strong authentication management, enterprise single sign-on, web access management, identity management, role life cycle management, self-service portal, user provisioning, audit and reporting. Its solutions govern the accesses of more than 5 millions end-users every day, in the healthcare, finance, telco, government and industry sectors. Evidian dedicates a significant part of its revenue to research and development, and as such has led or participated in several collaborative European R&D projects. </p>
     </td>
       </tr>
    <tr>
     <td rowspan="1">
       <b>Description </b> </td>
     <td rowspan="1">
-      <p>Demonstrator, communications & publications, courses material  </p>
+      <p>Software tool: Context-aware access control and authorization mechanisms for smart IoT systems.
+The context-aware risk-based authorization server will be integrated in the Evidian standard offer as “an IAM gateway for Industrial IoT”. </p>
     </td>
       </tr>
      <tr>
     <td rowspan="1">
       <b>Type</b> </td>
     <td rowspan="1">
-      <p>New algorithms and models for Knowledge contribution, Open Source (Lesser General Public License) and legacy proprietary Software for prototyping </p>
+      <p>Proprietary Software </p>
     </td>
       </tr>
 </table>
