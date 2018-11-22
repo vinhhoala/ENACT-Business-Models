@@ -33,18 +33,34 @@ This page contains the business model for the Actuation Conflict Management & Be
     </td>
     <td>
       <b>Unfair Advantage</b>
-      <p>Can't be easily <br>
-      copied or bought</p>
+      <p>New algorithms and models for Knowledge contribution, Open Source (Lesser General Public License) and legacy proprietary Software for prototyping</p>
     </td>
     <td rowspan="2">
       <b>Customer Segments</b>
-      <p>Target customers</p>
+      <p>App Developers: Software company that wants to provide a new software IoT Platform with new tools for more trustworthlyness in design and monitoring.</p>
+      <b>Segments</b>
+      <p>All IoT platform providers</p>
     </td>
   </tr>
   <tr>
     <td>
       <b>Key Metrics</b>
-      <p>Key activities you measure</p>
+      <p>* Licence agreements for transfer (key metric = sum of %) 
+   - 50 % licences on actuation conflict manager tools 
+   - 50 % licences on Behavioral Drift Analysis tools
+* Communications  & publications (key metric = sum of %) 
+   -  20% = 2 communications in major conferences (on both CNRS contributions)
+   -  50% = 1 journal  publication on Actuation Conflict in IoT  Survey and contribution ,
+   -  30 % = 4 communciations with the other partners  (ex. with UDE on reinforcement learning  with behavioral drift measure ...)
+
+* standard committees : (key metric = sum of %) 
+    -  40% = participation to a Specification Groups on IoT plateforms, (ex. ETSI / SmartM2M ...)
+    - 60% = standard  draft on  guidelines  for  IoT plateforms and  Actuation  
+* Training (key metric = sum of %) 
+   -  50% = Online New Course on Devops for IoT (Master degree level) 
+   -  40% = Hackaton  on ENACT solutions 
+
+</p>
     </td>
     <td>
       <b>Channels</b>
