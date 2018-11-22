@@ -142,11 +142,11 @@ This page contains the business model for the Actuation Conflict Management & Be
       <b>KPIs</b>
     </td>
     <td rowspan="1">
-      <p>NEach KPI evaluate the impact on the targets identified above :  
+      <p>Each KPI evaluate the impact on the targets identified above:  
 
 * Licence agreements for transfer (key metric = sum of %) 
 
-   - 50 % licences on actuation conflict manager tools 
+   **50 % licences on actuation conflict manager tools 
    
    - 50 % licences on Behavioral Drift Analysis tools
    
