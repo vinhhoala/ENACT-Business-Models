@@ -93,32 +93,19 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b>KPIs</b>
     </td>
     <td rowspan="1">
-      <p>Each KPI evaluate the impact on the targets identified above:  
+      <p>Individual and specific KPIs for the solution (KPI to evaluate the success of the exploitation activity):
 
-* Licence agreements for transfer (key metric = sum of %) 
-  * 50 % licences on actuation conflict manager tools 
-  * 50 % licences on Behavioral Drift Analysis tools
-   
-* Communications  & publications (key metric = sum of %) 
-  * 20% = 2 communications in major conferences (on both CNRS contributions)
-  * 50% = 1 journal  publication on Actuation Conflict in IoT  Survey and contribution 
-  * 30 % = 4 communciations with the other partners  (ex. with UDE on reinforcement learning  with behavioral drift measure ...)
+* Rate of progress in the Life Cycle Management cycle:
+  * 100% = GO for General Shipment max 6 months after the end of the project
+  * 50% = GO for General Shipment between 6 and 12 months after the end of the project
+  * 0% = 12 months after the end of the project there is still no GO for General Shipment
 
-* standard committees : (key metric = sum of %) 
-  * 40% = participation to a Specification Groups on IoT plateforms, (ex. ETSI / SmartM2M ...)
-  * 60% = standard  draft on  guidelines  for  IoT plateforms and  Actuation  
-    
-* Training (key metric = sum of %) 
-  * 50% = Online New Course on Devops for IoT (Master degree level) 
-  * 40% = Hackaton  on ENACT solutions 
-</p>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="1">
-      <b>Time to Market</b> </td>
-    <td rowspan="1">
-      <p>1 year after licencing with an industrial partner  </p>
+* % of successfull global validation tests
+
+* Filed patents:
+  * 100% = 2 patents
+  * 50% = 1 patents
+  * 0% = 0 patent  </p>
     </td>
       </tr>
 </table>
