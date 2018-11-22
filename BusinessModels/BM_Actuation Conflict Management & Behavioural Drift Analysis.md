@@ -81,7 +81,7 @@ Existing Alternatives | Currently actuation systems are controlled with Ad-Hoc m
 Solution
 ------------ | -------------
 
-| Tables        | Are           | Cool  |
+| Tables are Cool |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
