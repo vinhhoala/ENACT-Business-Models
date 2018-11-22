@@ -147,10 +147,50 @@ This page contains the business model for the Actuation Conflict Management & Be
   </tr>
   <tr>
     <td rowspan="1">
-      <b>Segment/b>
+      <b>Segment</b>
     </td>
     <td rowspan="1">
       <p>All IoT platform providers</p>
+    </td>
+  </tr>
+</table>
+
+### Channels
+<table>
+  <tr>
+    <td rowspan="1">
+      <b>Promotion</b>
+    </td>
+    <td rowspan="1">
+      <p>conferences, journals, demonstrations, workshops </p>
+    </td>
+  </tr>
+   <tr>
+    <td rowspan="1">
+      <b>Distribution</b>
+    </td>
+    <td rowspan="1">
+      <p>publications,  courses, hackatons</p>
+    </td>
+  </tr>
+</table>
+
+### Revenue Streams
+<table>
+  <tr>
+    <td rowspan="1">
+      <b>Sources of financing foreseen after the end of the project </b>
+    </td>
+    <td rowspan="1">
+      <p>licences fees, training, consulting </p>
+    </td>
+  </tr>
+   <tr>
+    <td rowspan="1">
+      <b> Revenue Sources</b>
+    </td>
+    <td rowspan="1">
+      <p>companies, training organizations</p>
     </td>
   </tr>
 </table>
