@@ -24,7 +24,7 @@ This page contains the business model for the Context-Aware Access Control tool.
     </td>
     <td rowspan="1">
       <p>
-               
+        
 * Apply access control mechanisms and identity governance mechanisms that today address people accessing IT applications, to people accessing industrial IoT, and to relationships between industrial objects
 * Improve global cybersecurity of the middleware and application IoT layers
 * Consider privacy risks as an integral part of the dynamic access control process.</p>
