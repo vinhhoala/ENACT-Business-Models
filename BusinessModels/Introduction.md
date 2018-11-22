@@ -1,6 +1,7 @@
 
 # Business Models
 A business model describes the process followed by an organization to create, deliver and capture value for its customers. This process is commonly represented by a framework that organizations use as tools to develop and define the different elements that take part in the process and the interactions between them. Among the different approaches available, one of the most popular is the framework proposed by Osterwalder and Pigneur (2009), resulting in the Business Model Canvas. The Business Model Canvas is organized around nine different elements: value proposition, customer segments, channels, customer relationships, key resources, key activities, key partnerships, cost structure and revenue streams.
+
 The Business Model Canvas proposed by Osterwalder and Pigneur was later adapted by Ash Maurya (2010) into the Lean Canvas. This framework modifies some of the elements of the Business Model Canvas to open it to start-ups, small and large organizations. Thus, the Lean Canvas conserves some of the elements from the Business Model Canvas (customers, channels, cost structure, revenue streams), omits others (key activities and key resources, customer relationships and key partners) and introduces new ones: problem, solution, key metrics and unfair advantage:
 
 * Problem: it is essential to understand in the first place what are the problems and needs that the solution you are proposing is addressing and solving for your existing/potential customers, including the existing alternatives available.
