@@ -8,8 +8,8 @@ This page contains the business model for the Actuation Conflict Management & Be
 
 **Partner:** CNRS
 
-Category | Academic
-Type | IoT  platform provider with Actuation Conflict Management and Behaviroural Drift Analysis
+**Category:** Academic
+**Type:** IoT  platform provider with Actuation Conflict Management and Behaviroural Drift Analysis
 
 <table>
   <tr>
