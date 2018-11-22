@@ -21,18 +21,18 @@ This page contains the business models generated for the solutions and applicati
     </td>
     <td rowspan="1">
       <p>The current solutions:
-- Lack automatization of control of rolling stock
-- Need large and expensive (wired) communication infrastructure
-- Offer limited access to information
-- Do not offer tracking information of rolling stock
-- Inauguraiton of composition is done manually, change also is manual and time consuming </p>
+* Lack automatization of control of rolling stock
+* Need large and expensive (wired) communication infrastructure
+* Offer limited access to information
+* Do not offer tracking information of rolling stock
+* Inauguraiton of composition is done manually, change also is manual and time consuming </p>
     </td>
   </tr>
   <tr>
     <td rowspan="1">
       <b>Existing Alternatives</b> </td>
     <td rowspan="1">
-      <p>Currently actuation systems are controlled with Ad-Hoc monitors. These approaches are not well-adapted for Devops methodology and  large scale IoT platforms </p>
+      <p>Train detection systems (TDS) - axle counter and track circuit - , manual (wired) On Board Train Integrity Devices, GSM-R communications… </p>
     </td>
       </tr>
 </table>
@@ -45,35 +45,35 @@ This page contains the business models generated for the solutions and applicati
       <b>ENACT Result</b>
     </td>
     <td rowspan="1">
-      <p>Tools to detect actuation conflicts, to design actuation managers, to monitor behavioral drift  of the actuation systems.</p>
+      <p>ITS Use Case</p>
     </td>
   </tr>
   <tr>
     <td rowspan="1">
       <b>Exploitation Form</b> </td>
     <td rowspan="1">
-      <p>As  an academic partner our contribution will  take the form of  license agreement  for transfer, publications, participation in standards commitees, new university training courses. </p>
+      <p>Publication, Technology & Knowledge Transfer </p>
     </td>
       </tr>
     <tr>
     <td rowspan="1">
       <b>IPR Background </b> </td>
     <td rowspan="1">
-      <p>Background Knowledge in ENACT : synchronous monitoring model to manage shared resources, execution engine models  for a finite state machine, stochastic models of behavioural drifts, experimental software prototypes like behavioural drift measures.  </p>
+      <p>EDI has extensive know-how in IoT system development and has also participated in EU FP7 project "DEWI" rail domain. </p>
     </td>
       </tr>
    <tr>
     <td rowspan="1">
       <b>Description </b> </td>
     <td rowspan="1">
-      <p>Demonstrator, communications & publications, courses material  </p>
+      <p>Demonstrator, publications. We would like to use our existing knowledge to get new knowledge, exploit it  and gain our publicity.  </p>
     </td>
       </tr>
      <tr>
     <td rowspan="1">
       <b>Type</b> </td>
     <td rowspan="1">
-      <p>New algorithms and models for Knowledge contribution, Open Source (Lesser General Public License) and legacy proprietary Software for prototyping </p>
+      <p>Open source </p>
     </td>
       </tr>
 </table>
@@ -86,24 +86,7 @@ This page contains the business models generated for the solutions and applicati
       <b>KPIs</b>
     </td>
     <td rowspan="1">
-      <p>Each KPI evaluate the impact on the targets identified above:  
-
-* Licence agreements for transfer (key metric = sum of %) 
-  * 50 % licences on actuation conflict manager tools 
-  * 50 % licences on Behavioral Drift Analysis tools
-   
-* Communications  & publications (key metric = sum of %) 
-  * 20% = 2 communications in major conferences (on both CNRS contributions)
-  * 50% = 1 journal  publication on Actuation Conflict in IoT  Survey and contribution 
-  * 30 % = 4 communciations with the other partners  (ex. with UDE on reinforcement learning  with behavioral drift measure ...)
-
-* standard committees : (key metric = sum of %) 
-  * 40% = participation to a Specification Groups on IoT plateforms, (ex. ETSI / SmartM2M ...)
-  * 60% = standard  draft on  guidelines  for  IoT plateforms and  Actuation  
-    
-* Training (key metric = sum of %) 
-  * 50% = Online New Course on Devops for IoT (Master degree level) 
-  * 40% = Hackaton  on ENACT solutions 
+      <p>Accepted publication, (2 SCOPUS-indexed)
 </p>
     </td>
   </tr>
@@ -111,12 +94,12 @@ This page contains the business models generated for the solutions and applicati
     <td rowspan="1">
       <b>Time to Market</b> </td>
     <td rowspan="1">
-      <p>1 year after licencing with an industrial partner  </p>
+      <p>expected TRL is 5 </p>
     </td>
       </tr>
 </table>
 
-### Unique Value proposition
+### Unique Value Proposition
 
 <table>
   <tr>
@@ -124,7 +107,15 @@ This page contains the business models generated for the solutions and applicati
       <b>Value added by the solution</b>
     </td>
     <td rowspan="1">
-      <p>Tools for actuation conflict detection and management in IoT Systems  </p>
+      <p>IoT system compatible with DevOps enablers for integrety, logistics and maintenance controll of systems </p>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="1">
+      <b>Unfair Advantage</b>
+    </td>
+    <td rowspan="1">
+      <p>more than 5 year experience in IOT development field </p>
     </td>
   </tr>
 </table>
@@ -137,23 +128,16 @@ This page contains the business models generated for the solutions and applicati
       <b>Type</b>
     </td>
     <td rowspan="1">
-      <p>App Developer</p>
+      <p> researchers, industry, students</p>
     </td>
   </tr>
-    <tr>
-    <td rowspan="1">
-      <b>Potential customers</b>
-    </td>
-    <td rowspan="1">
-      <p>Software company that wants to provide a new software IoT Platform with new tools for more trustworthlyness in design and monitoring.</p>
-    </td>
-  </tr>
+
   <tr>
     <td rowspan="1">
       <b>Segment</b>
     </td>
     <td rowspan="1">
-      <p>All IoT platform providers</p>
+      <p>IoT  industry</p>
     </td>
   </tr>
 </table>
@@ -165,7 +149,7 @@ This page contains the business models generated for the solutions and applicati
       <b>Promotion</b>
     </td>
     <td rowspan="1">
-      <p>conferences, journals, demonstrations, workshops </p>
+      <p>Radio, conferences, TV, journals </p>
     </td>
   </tr>
    <tr>
@@ -173,27 +157,19 @@ This page contains the business models generated for the solutions and applicati
       <b>Distribution</b>
     </td>
     <td rowspan="1">
-      <p>publications,  courses, hackatons</p>
+      <p>journals, conferences</p>
     </td>
   </tr>
 </table>
 
 ### Revenue Streams
 <table>
-  <tr>
-    <td rowspan="1">
-      <b>Sources of financing foreseen after the end of the project </b>
-    </td>
-    <td rowspan="1">
-      <p>licences fees, training, consulting </p>
-    </td>
-  </tr>
    <tr>
     <td rowspan="1">
       <b> Revenue Sources</b>
     </td>
     <td rowspan="1">
-      <p>companies, training organizations</p>
+      <p>licensees, future projects, contract research</p>
     </td>
   </tr>
 </table>
