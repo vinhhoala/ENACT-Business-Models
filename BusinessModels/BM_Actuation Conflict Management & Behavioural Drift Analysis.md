@@ -83,6 +83,7 @@ This page contains the business model for the Actuation Conflict Management & Be
       <b>Existing Alternatives</b>
       <p>Currently actuation systems are controlled with Ad-Hoc monitors. These approaches are not well-adapted for Devops methodology and  large scale IoT platforms</p>
     </td>
+    <br><br><br><br><br>
     <td rowspan="2" colspan="2">
       <b>Unique Value Proposition</b>
       <p>Tools for actuation conflict detection and management in IoT Systems </p>
