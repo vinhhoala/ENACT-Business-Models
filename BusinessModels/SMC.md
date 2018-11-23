@@ -103,8 +103,8 @@ The Enabler prototype will be a software product and consultancy service for pro
         
 Number and type of early adopters besides ENACT end-users. Number and types of tool functionalities used.
       
-     </p>
-    </td>
+  </p>
+   </td>
       </tr>
     <tr>
     <td rowspan="1">
