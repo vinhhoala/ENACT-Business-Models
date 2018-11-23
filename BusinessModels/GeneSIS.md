@@ -24,7 +24,8 @@ This page contains the business model for the GeneSIS tool.
     <td rowspan="1">
       <p>
         Needs deployment over IoT, Edge and Cloud. Need support for trustworthy deployment (i.e., support for deploying trustworthiness mechanisms and Mechanisms to properly monitor what has been deployed)
-/p>
+
+</p>
     </td>
   </tr>
   <tr>
@@ -56,7 +57,7 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud 
       <b>Exploitation Form</b> </td>
     <td rowspan="1">
       <p>
-* Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: Consultancy and new projects 
+- Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: Consultancy and new projects 
 
 * Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: standardization
 
