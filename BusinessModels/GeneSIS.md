@@ -23,8 +23,8 @@ This page contains the business model for the GeneSIS tool.
     </td>
     <td rowspan="1">
       <p>
-        
-Monitoring has always been a crtitical feature for IT management. However, large deployments suffer from the "christmas tree" effect: lots of alarms triggering at the same time requires lots of expertise for administrators to identify the correct culprits and ignore false alarms. There are systems that can perform root cause analysis of an infrastructure, but they require deep domain knowledge, which is impractical to elicit and maintain in large and fast changing deployments. Customers are continually looking to automate the identification of critical errors within enterprise scale deployments enabling faster and more accurate root cause analysis</p>
+        Needs deployment over IoT, Edge and Cloud. Need support for trustworthy deployment (i.e., support for deploying trustworthiness mechanisms and Mechanisms to properly monitor what has been deployed)
+/p>
     </td>
   </tr>
   <tr>
@@ -33,7 +33,8 @@ Monitoring has always been a crtitical feature for IT management. However, large
     <td rowspan="1">
       <p>
         
-Limited alternatives in this area. CA is a leader in the domain.</p>
+Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud infrastructure, (ii) No monitoring of the execution flow of the app. This is particularly relevant for debugging on IoT devices (as this is typically a complicated task), (iii) deployment tool do not integrate with security and privacy tools.
+</p>
     </td>
       </tr>
 </table>
@@ -46,14 +47,19 @@ Limited alternatives in this area. CA is a leader in the domain.</p>
       <b>ENACT Result</b>
     </td>
     <td rowspan="1">
-      <p>RCA enabler</p>
+      <p>GeneSIS (Orchestration and deployment enabler)</p>
     </td>
   </tr>
   <tr>
     <td rowspan="1">
       <b>Exploitation Form</b> </td>
     <td rowspan="1">
-      <p>Technology and Knowledge transfer from the research project to the Application Performance Management (APM) group in CA Technologies will put the research outcome into a product team and possibly become an integral part of the APM product for general sale worldwise. It is not anticipated that this will be licenced to third parties  </p>
+      <p>* Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: Consultancy and new projects 
+
+* Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: standardization
+
+* Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: open source community
+ </p>
     </td>
       </tr>
     <tr>
