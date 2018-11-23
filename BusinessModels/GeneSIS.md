@@ -34,7 +34,8 @@ This page contains the business model for the GeneSIS tool.
       <p>
         
 Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud infrastructure, (ii) No monitoring of the execution flow of the app. This is particularly relevant for debugging on IoT devices (as this is typically a complicated task), (iii) deployment tool do not integrate with security and privacy tools.
-</p>
+
+  </p>
     </td>
       </tr>
 </table>
@@ -54,7 +55,8 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud 
     <td rowspan="1">
       <b>Exploitation Form</b> </td>
     <td rowspan="1">
-      <p>* Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: Consultancy and new projects 
+      <p>
+* Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: Consultancy and new projects 
 
 * Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: standardization
 
