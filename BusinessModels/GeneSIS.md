@@ -57,11 +57,14 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud 
       <b>Exploitation Form</b> </td>
     <td rowspan="1">
       <p>
-- Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: Consultancy and new projects 
+
+
+* Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: Consultancy and new projects 
 
 * Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: standardization
 
 * Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: open source community
+
  </p>
     </td>
       </tr>
@@ -69,21 +72,21 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud 
     <td rowspan="1">
       <b>IPR Background </b> </td>
     <td rowspan="1">
-      <p>Root Cause analysis has been one of the main research threads with CA Technologies Strategic research and part of other research projects. The team has considerable expertise in AI extensions to RCA prior to engaging in the ENACT project </p>
+      <p>ThingML for the design and implementation of distributed reactive systems. CloudML for the deployment of multi-cloud applications </p>
     </td>
       </tr>
    <tr>
     <td rowspan="1">
       <b>Description </b> </td>
     <td rowspan="1">
-      <p>There have been no plans for development of this technology as a separate product. It will either become fully integrated in the APM product or become a paid for extension </p>
+      <p>Software tool and expertise in continuous development, orchestration and deployment of software across IoT, Edge, and cloud infrastructure.</p>
     </td>
       </tr>
      <tr>
     <td rowspan="1">
       <b>Type</b> </td>
     <td rowspan="1">
-      <p>Proprietary Software </p>
+      <p>Open Source </p>
     </td>
       </tr>
 </table>
@@ -96,7 +99,15 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud 
       <b>KPIs</b>
     </td>
     <td rowspan="1">
-      <p>KPI1: Acceptance as a backlog entry in APM development, KPI2: Inclusion in a PI plan for  future development and deployment </p>
+      <p>
+        
+* 2 proposals for research projects or bi-lateral project with industry are submitted
+
+* Code delivered on a public repository (e.g., github, gitlab) together with documentation and tutorials. Open source communities have been contacted.
+
+* Involved in the OASIS TOSCA standardization activity
+      
+      </p>
     </td>
       </tr>
     <tr>
@@ -106,7 +117,7 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud 
     <td rowspan="1">
       <p>
 
-At the end of the project it is anticipated as TRL4 - proven in Lab. After potential transfer to CA development the initial plan will be TRL5 moving up the levels once validated in customer sites
+TRL8
       </p>
     </td>
       </tr>    
@@ -121,8 +132,9 @@ At the end of the project it is anticipated as TRL4 - proven in Lab. After poten
     </td>
     <td rowspan="1">
       <p>
+Solution has been designed with specific support for all the infrastructure continuum. It is technology agnostic as well as cloud and platform independent. Faster time-to-market, better agility
 
-APM already has a triage capability however this needs further automation to include improved  RCA, including recognition of the source of a fault beyond the existing stories  </p>
+Same language includes runtime information, and in particular execution flow can be monitored when ThingML is used. Faster time-to-market, better agility  </p>
     </td>
   </tr>
   <tr>
@@ -130,7 +142,7 @@ APM already has a triage capability however this needs further automation to inc
       <b>Unfair Advantage</b>
     </td>
     <td rowspan="1">
-      <p>Difficult to evaluate since it will potentially become part of a larger product and will not be sold as standalone</p>
+      <p>Tailored for IoT, Edge, Cloud and support for Security/privacy </p>
     </td>
   </tr>
 </table>
@@ -143,7 +155,7 @@ APM already has a triage capability however this needs further automation to inc
       <b>Type</b>
     </td>
     <td rowspan="1">
-      <p>App Operator</p>
+      <p>App Developers, App Operators, App Owners</p>
     </td>
   </tr>
     <tr>
@@ -152,8 +164,7 @@ APM already has a triage capability however this needs further automation to inc
     </td>
     <td rowspan="1">
       <p>
-        
-The customers will be users of the APM product and will be buying more functionality than just the RCA capability </p>
+      Industry partner willing to improve his software delivery process </p>
     </td>
   </tr>
   <tr>
@@ -161,7 +172,7 @@ The customers will be users of the APM product and will be buying more functiona
       <b>Segment</b>
     </td>
     <td rowspan="1">
-      <p>The target market is for enterprise APM users who need to monitor and manage applications running in a wide number of domains
+      <p>SIS provider
     </p>
     </td>
   </tr>
@@ -176,7 +187,9 @@ The customers will be users of the APM product and will be buying more functiona
     <td rowspan="1">
       <p>
 
-CA's Direct high value customer sales teams CA's extensive partner network and CA marketing/PR teams
+Publications, seminar, open source repositories and communities, meetings
+
+TOSCA standardization process
      </p>
     </td>
   </tr>
@@ -187,7 +200,7 @@ CA's Direct high value customer sales teams CA's extensive partner network and C
     <td rowspan="1">
       <p>
  
-CA's Direct high value customer sales teams CA's extensive partner network
+Research project, open source repositories
    </p>
     </td>
   </tr>
@@ -202,7 +215,11 @@ CA's Direct high value customer sales teams CA's extensive partner network
     <td rowspan="1">
       <p>
 
-Unable to evaluate costs of a PI plan unti the plan is formed
+Administration team
+
+Standardization contributor
+
+Development and research team
      </p>
     </td>
   </tr>
@@ -212,31 +229,17 @@ Unable to evaluate costs of a PI plan unti the plan is formed
     </td>
     <td rowspan="1">
       <p>
-      
-Unable to evaluate costs of a PI plan unti the plan is formed
+Software development
+        
+Dissemination 
+
+Software distribution and administration
+
+Participate in  meeting
+
+contribute to standard definition
      </p>
     </td>
   </tr>
 </table>
 
-### Revenue Streams
-
-<table>
-  <tr>
-    <td rowspan="1">
-      <b>Sources of financing foreseen after the end of the project </b>
-    </td>
-    <td rowspan="1">
-      <p>Unbale to evaluate. CA does not breakdown the costs of an individual component</p>
-    </td>
-  </tr>
-   <tr>
-    <td rowspan="1">
-      <b> Revenue Sources</b>
-    </td>
-    <td rowspan="1">
-      <p>Revenue is likely to be from subscription or purchase of product licencing and SaaS implementations. Other sources will likely be from CA Partnership agreements with partner network
-</p>
-    </td>
-  </tr>
-</table>
