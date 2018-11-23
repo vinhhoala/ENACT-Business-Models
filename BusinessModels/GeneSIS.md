@@ -107,7 +107,7 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud 
 
 * Involved in the OASIS TOSCA standardization activity
       
-      </p>
+     </p>
     </td>
       </tr>
     <tr>
