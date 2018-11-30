@@ -104,7 +104,7 @@ This product will provide safety solutions based on IoT infrastructures for enha
       <b>Time to Market</b> </td>
     <td rowspan="1">
       <p>
- <ul><
+ <ul>
 <li> MS 1 - Middle of ENACT's lifetime:  Define the IoT Services and testing new technology under development. Up to TRL3.</li>
 
 <li> MS 2 -  End of ENACT: End of the project we expect relevant results validated on a Real Rail Environment </li>
@@ -225,7 +225,7 @@ Indra expects to introduce the solution developed in ENACT in its existing portf
         
 <li>Improvement in the margin of operations (existing customers, new customers)<li>
 
-<lI>Additional income (greater scope of recruitment, higher added value, projects in other ways)</li></ul>
+<li>Additional income (greater scope of recruitment, higher added value, projects in other ways)</li></ul>
 </p>
     </td>
   </tr>
