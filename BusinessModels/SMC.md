@@ -2,7 +2,7 @@
 
 This page contains the business model for the Security Monitoring and Control tool.
 
-![alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/SPC.png)
+![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/SPC.png?raw=true "SPC")
 
 ## Main Contributor
 
