@@ -2,7 +2,7 @@
 
 This page contains the business model for the Actuation Conflict Management & Behavioural Drift Analysis tools.
 
-![alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/ACM%26BDA.png)
+![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/ACM%26BDA.png?raw=true "ACM&BDA")
 
 ## Main Contributor
 
