@@ -1,6 +1,6 @@
 # ENACT Business Models
 
-![alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/ENACT.png)
+!(https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/ENACT.png)
 
 Welcome to the ENACT Business Models page!
 
@@ -8,7 +8,7 @@ In this website you will find the business models produced be ENACT partners ena
 
 ## Business Models
 
-![alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/Canvas.png)
+!(https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/Canvas.png)
 
 A business model describes the process followed by an organization to create, deliver and capture value for its customers. This process is commonly represented by a framework that organizations use as tools to develop and define the different elements that take part in the process and the interactions between them. Among the different approaches available, one of the most popular is the framework proposed by Osterwalder and Pigneur (2009), resulting in the Business Model Canvas. The Business Model Canvas is organized around nine different elements: value proposition, customer segments, channels, customer relationships, key resources, key activities, key partnerships, cost structure and revenue streams.
 
