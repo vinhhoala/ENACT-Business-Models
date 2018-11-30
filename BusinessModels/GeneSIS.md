@@ -107,7 +107,7 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud 
 
 <li> Involved in the OASIS TOSCA standardization activity</li></ul>
       
-     </p>
+   </p>
     </td>
       </tr>
     <tr>
@@ -214,13 +214,13 @@ Research project, open source repositories
     </td>
     <td rowspan="1">
       <p>
+<ul>
+  <li>Administration team</li>
 
-Administration team
+<li>Standardization contributor</li>
 
-Standardization contributor
-
-Development and research team
-     </p>
+<li>Development and research team</li></ul>
+  </p>
     </td>
   </tr>
    <tr>
@@ -229,15 +229,16 @@ Development and research team
     </td>
     <td rowspan="1">
       <p>
-Software development
+<ul>
+  <li>Software development</li>
         
-Dissemination 
+<li>Dissemination </li>
 
-Software distribution and administration
+<li>Software distribution and administration</li>
 
-Participate in  meeting
+<li>Participate in  meeting>/li>
 
-contribute to standard definition
+<li>Contribute to standard definition</li></ul>
      </p>
     </td>
   </tr>
