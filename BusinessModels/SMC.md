@@ -4,6 +4,7 @@ This page contains the business model for the Security Monitoring and Control to
 
 ![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/SPC.png?raw=true "SPC")
 
+
 ## Main Contributor
 
 **Partner:** TECNALIA
