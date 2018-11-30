@@ -118,8 +118,8 @@ The context-aware risk-based authorization server will be integrated in the Evid
   <li>0% = 0 patent  </p></li>
   </ul></li>
   </ul>
-    </td>
-      </tr>
+  </td>
+   </tr>
     <tr>
     <td rowspan="1">
       <b>Time To Market</b>
