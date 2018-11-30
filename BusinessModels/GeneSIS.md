@@ -58,12 +58,12 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud 
     <td rowspan="1">
       <p>
 
+<ul>
+<li> Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: Consultancy and new projects </li>
 
-* Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: Consultancy and new projects 
+<li>Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: standardization</li>
 
-* Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: standardization
-
-* Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: open source community
+<li> Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: open source community</li></ul>
 
  </p>
     </td>
@@ -100,12 +100,12 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud 
     </td>
     <td rowspan="1">
       <p>
-        
-* 2 proposals for research projects or bi-lateral project with industry are submitted
+     <ul>   
+       <li> 2 proposals for research projects or bi-lateral project with industry are submitted</li>
 
-* Code delivered on a public repository (e.g., github, gitlab) together with documentation and tutorials. Open source communities have been contacted.
+<li> Code delivered on a public repository (e.g., github, gitlab) together with documentation and tutorials. Open source communities have been contacted.</li>
 
-* Involved in the OASIS TOSCA standardization activity
+<li> Involved in the OASIS TOSCA standardization activity</li></ul>
       
      </p>
     </td>
