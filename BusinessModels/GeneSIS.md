@@ -2,7 +2,7 @@
 
 This page contains the business model for the GeneSIS tool.
 
-![alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/GeneSIS.png)
+![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/GeneSIS.png?raw=true "GeneSIS")
 
 ## Main Contributor
 
