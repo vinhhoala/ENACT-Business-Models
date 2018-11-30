@@ -94,7 +94,6 @@ The context-aware risk-based authorization server will be integrated in the Evid
 
 ### Key Metrics
 
-
 <table>
   <tr>
     <td rowspan="1">
@@ -141,8 +140,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
 </ul>
       </p>
     </td>
-      </tr>    
-  </table>
+      </tr></table>
 
 ### Unique Value proposition
 
