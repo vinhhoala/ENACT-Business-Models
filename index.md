@@ -1,10 +1,15 @@
 # ENACT Business Models
 
+![alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/ENACT.png)
+
 Welcome to the ENACT Business Models page!
 
 In this website you will find the business models produced be ENACT partners enabled by the technologies developed in the project for the different stakeholders of the DevOps cycle: App Developers, App Operators, App Owners and End Users.
 
 ## Business Models
+
+![alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/Canvas.png)
+
 A business model describes the process followed by an organization to create, deliver and capture value for its customers. This process is commonly represented by a framework that organizations use as tools to develop and define the different elements that take part in the process and the interactions between them. Among the different approaches available, one of the most popular is the framework proposed by Osterwalder and Pigneur (2009), resulting in the Business Model Canvas. The Business Model Canvas is organized around nine different elements: value proposition, customer segments, channels, customer relationships, key resources, key activities, key partnerships, cost structure and revenue streams.
 
 The Business Model Canvas proposed by Osterwalder and Pigneur was later adapted by Ash Maurya (2010) into the Lean Canvas. This framework modifies some of the elements of the Business Model Canvas to open it to start-ups, small and large organizations. Thus, the Lean Canvas conserves some of the elements from the Business Model Canvas (customers, channels, cost structure, revenue streams), omits others (key activities and key resources, customer relationships and key partners) and introduces new ones: problem, solution, key metrics and unfair advantage:
