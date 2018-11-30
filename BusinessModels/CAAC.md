@@ -92,7 +92,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
 </table>
 
 
-### Key Metrics
+### Key Metrics (TEST)
 
 <table>
   <tr>
@@ -100,18 +100,15 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b>KPIs</b>
     </td>
     <td rowspan="1">
-      <p>Individual and specific KPIs for the solution (KPI to evaluate the success of the exploitation activity):
+   <p>Individual and specific KPIs for the solution (KPI to evaluate the success of the exploitation activity):
 <ul>
-  
 <li> Rate of progress in the Life Cycle Management cycle:
   <ul>
     <li> 100% = GO for General Shipment max 6 months after the end of the project</li>
     <li> 50% = GO for General Shipment between 6 and 12 months after the end of the project </li>
     <li>0% = 12 months after the end of the project there is still no GO for General Shipment</li>
   </ul> </li>
-
 <li> % of successfull global validation tests </li>
-
   <li>Filed patents:
   <Ul>
     <li>100% = 2 patents</li>
@@ -127,7 +124,6 @@ The context-aware risk-based authorization server will be integrated in the Evid
     </td>
     <td rowspan="1">
       <p>
-
 <ul>
   
 <li> MS 1 - Middle of ENACT's lifetime: Testing new technology is under progress and TRL 3 reached. Partial results promoted towards Product Line Management. Step 1 in the company Product Life Cycle Management process: formal decision to include in the official roadmap.</li>
@@ -137,10 +133,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
 <li>MS 3 -  After end of ENACT (2 years): Step 3 of the Life Cycle Management (max 6 months after the end of the project): GO for General Shipment.  Press release and communications about the new product offer, now on sale.</li>
 
 <li>MS 4 -  5 years later: Deployment of the solution at key customers in the manufacturing  sector, acquisition of new customers in other sectors of Industry. Praised by analysts as a major European vendor for IoT security. </li>
-</ul>
-      </p>
-    </td>
-      </tr></table>
+</ul></p></td></tr></table>
 
 ### Unique Value proposition
 
