@@ -3,7 +3,7 @@
 
 This page contains the business model for the Context-Aware Access Control tool.
 
-![alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/CAAC.png)
+![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/CAAC.png?raw=true "CAAC")
 
 ## Main Contributor
 
