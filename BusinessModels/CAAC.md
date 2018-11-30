@@ -92,7 +92,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
 </table>
 
 
-### Key Metrics (TEST)
+### Key Metrics
 
 <table>
   <tr>
