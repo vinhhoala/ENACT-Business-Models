@@ -40,7 +40,7 @@ This page contains the business model for the Context-Aware Access Control tool.
       <p>
  <ul>       
 <li>Today, no protocol can deliver dynamic authorization based on context for both IT and OT (operational technologies) domains.</li>
-<li>Cloud computing infrastructures do not use dynamic access control, but static traditional mechanisms, despite the highly dynamic nature of cloud computing capabilities./li>
+<li>Cloud computing infrastructures do not use dynamic access control, but static traditional mechanisms, despite the highly dynamic nature of cloud computing capabilities.</li>
 <li>As the number of connected devices increases more and more, the related security risks are more and more important.</li>
       </ul>
    
@@ -100,18 +100,24 @@ The context-aware risk-based authorization server will be integrated in the Evid
     </td>
     <td rowspan="1">
       <p>Individual and specific KPIs for the solution (KPI to evaluate the success of the exploitation activity):
+<ul>
+  
+<li> Rate of progress in the Life Cycle Management cycle:
+  <ul>
+    <li> 100% = GO for General Shipment max 6 months after the end of the project</li>
+    <li> 50% = GO for General Shipment between 6 and 12 months after the end of the project </li>
+    <li>0% = 12 months after the end of the project there is still no GO for General Shipment</li>
+  </ul> </li>
 
-* Rate of progress in the Life Cycle Management cycle:
-  * 100% = GO for General Shipment max 6 months after the end of the project
-  * 50% = GO for General Shipment between 6 and 12 months after the end of the project
-  * 0% = 12 months after the end of the project there is still no GO for General Shipment
+<li> % of successfull global validation tests </li>
 
-* % of successfull global validation tests
-
-* Filed patents:
-  * 100% = 2 patents
-  * 50% = 1 patents
-  * 0% = 0 patent  </p>
+  <li>Filed patents:
+  <Ul>
+    <li>100% = 2 patents</li>
+    <li>50% = 1 patents</li>
+  <li>0% = 0 patent  </p></li>
+  </ul></li>
+  </ul>
     </td>
       </tr>
     <tr>
