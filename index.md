@@ -54,27 +54,35 @@ The following table summarizes the business models produced and their main contr
   </tr>
   <tr>
     <td class="tg-yw4l">SINTEF</td>
-    <td class="tg-yw4l">GeneSIS Tool</td>
+    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/GeneSIS">GeneSIS Tool</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">EVIDIAN</td>
-    <td class="tg-yw4l">Context-Aware Access Control Tool</td>
+    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/CAAC">Context-Aware Access Control Tool</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">EDI</td>
-    <td class="tg-yw4l">Business Model for the ITS domain</td>
+    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/ITS-EDI">Business Model for the ITS domain</a></td>
   </tr>
      <tr>
     <td class="tg-yw4l">UDE</td>
-    <td class="tg-yw4l">Online Learning</td>
+    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/OnlineLearning">Online Learning</a></td>
   </tr>
      <tr>
     <td class="tg-yw4l">INDRA</td>
-    <td class="tg-yw4l">Business Model for the ITS domain</td>
+    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/ITS-INDRA">Business Model for the ITS domain</a></td>
   </tr>
      <tr>
     <td class="tg-yw4l">CA</td>
-    <td class="tg-yw4l">Root Cause Analysis Tool</td>
+    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/RCA">Root Cause Analysis Tool</a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Tecnalia</td>
+    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/SMC">Security Monitoring and Control tool</a></td>
+  </tr>
+     <tr>
+    <td class="tg-yw4l">Tellu</td>
+    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/eHealth&ThingML-TellU">Business Model for the eHealth domain and the ThingML tool</a></td>
   </tr>
 </table>
 
