@@ -84,32 +84,35 @@ This page contains the business model for the Actuation Conflict Management & Be
     </td>
     <td rowspan="1">
       <p>Each KPI evaluate the impact on the targets identified above:  
-
-* Licence agreements for transfer (key metric = sum of %) 
-  * 50 % licences on actuation conflict manager tools 
-  * 50 % licences on Behavioral Drift Analysis tools
-   
-* Communications  & publications (key metric = sum of %) 
-  20% = 2 communications in major conferences (on both CNRS contributions)
-  --50% = 1 journal  publication on Actuation Conflict in IoT  Survey and contribution 
-  --30 % = 4 communciations with the other partners  (ex. with UDE on reinforcement learning  with behavioral drift measure ...)
-
-* Standard committees : (key metric = sum of %) 
-  * 40% = participation to a Specification Groups on IoT plateforms, (ex. ETSI / SmartM2M ...)
-  * 60% = standard  draft on  guidelines  for  IoT plateforms and  Actuation  
-    
-* Training (key metric = sum of %) 
-  * 50% = Online New Course on Devops for IoT (Master degree level) 
-  * 40% = Hackaton  on ENACT solutions 
-  
-  <ul>
-  Licence agreements for transfer (key metric = sum of %) 
+ <ul>
+<li>Licence agreements for transfer (key metric = sum of %) 
   <ul> 
-    <li> 50 % licences on actuation conflict manager tools</li>
-    <li> 50 % licences on Behavioral Drift Analysis tools </li>
-    </ul>
-    
-   
+   <li> 50 % licences on actuation conflict manager tools</li>
+   <li> 50 % licences on Behavioral Drift Analysis tools </li>
+  </ul>
+</li>
+  
+<li>Communications  & publications (key metric = sum of %) 
+  <ul> 
+   <li>20% = 2 communications in major conferences (on both CNRS contributions)</li>
+   <li>50% = 1 journal  publication on Actuation Conflict in IoT  Survey and contribution </li>
+    <li>30 % = 4 communciations with the other partners  (ex. with UDE on reinforcement learning  with behavioral drift measure ...)</li>
+  </ul>
+</li>
+
+<li>Standard committees : (key metric = sum of %)  
+  <ul> 
+   <li>40% = participation to a Specification Groups on IoT plateforms, (ex. ETSI / SmartM2M ...)</li>
+   <li>60% = standard  draft on  guidelines  for  IoT plateforms and  Actuation  </li>
+  </ul>
+</li>
+
+<li>Training (key metric = sum of %) 
+  <ul> 
+   <li>50% = Online New Course on Devops for IoT (Master degree level) </li>
+   <li>40% = Hackaton  on ENACT solutions</li>
+  </ul>
+</li>
 
 </ul>
 
