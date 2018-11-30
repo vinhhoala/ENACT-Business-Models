@@ -220,12 +220,10 @@ Indra expects to introduce the solution developed in ENACT in its existing portf
     </td>
     <td rowspan="1">
       <p>
-        <ul>
-          <li>Direct sell to new customers (new oportunities and better market positioning)</li>
-        
-<li>Improvement in the margin of operations (existing customers, new customers)<li>
-
-<li>Additional income (greater scope of recruitment, higher added value, projects in other ways)</li></ul>
+  <ul>
+<li> Direct sell to new customers (new oportunities and better market positioning)</li>        
+<li> Improvement in the margin of operations (existing customers, new customers)</li>
+<li >Additional income (greater scope of recruitment, higher added value, projects in other ways)</li></ul>
 </p>
     </td>
   </tr>
