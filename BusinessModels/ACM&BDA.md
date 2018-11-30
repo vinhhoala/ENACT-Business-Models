@@ -103,13 +103,13 @@ This page contains the business model for the Actuation Conflict Management & Be
   * 40% = Hackaton  on ENACT solutions 
   
   <ul>
-  <li>Licence agreements for transfer (key metric = sum of %) 
+  Licence agreements for transfer (key metric = sum of %) 
   <ul> 
     <li> 50 % licences on actuation conflict manager tools</li>
     <li> 50 % licences on Behavioral Drift Analysis tools </li>
     </ul>
     
-    </li>
+   
 
 </ul>
 
