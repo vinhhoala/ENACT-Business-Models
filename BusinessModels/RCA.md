@@ -3,6 +3,7 @@
 This page contains the business model for the Root Cause Analysis tool.
 
 ![alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/RCA.png)
+![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/RCA.png?raw=true "RCA")
 
 ## Main Contributor
 
