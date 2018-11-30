@@ -94,6 +94,48 @@ The context-aware risk-based authorization server will be integrated in the Evid
 
 ### Key Metrics (TEST)
 
+<table>
+  <tr>
+    <td rowspan="1">
+      <b>KPIs</b>
+    </td>
+    <td rowspan="1">
+   <p>Individual and specific KPIs for the solution (KPI to evaluate the success of the exploitation activity):
+<ul>
+<li> Rate of progress in the Life Cycle Management cycle:
+  <ul>
+    <li> 100% = GO for General Shipment max 6 months after the end of the project</li>
+    <li> 50% = GO for General Shipment between 6 and 12 months after the end of the project </li>
+    <li>0% = 12 months after the end of the project there is still no GO for General Shipment</li>
+  </ul> </li>
+<li> % of successfull global validation tests </li>
+  <li>Filed patents:
+  <ul>
+    <li>100% = 2 patents</li>
+    <li>50% = 1 patents</li>
+  <li>0% = 0 patent  </p></li>
+  </ul></li>
+  </ul>
+  </td>
+   </tr>
+    <tr>
+    <td rowspan="1">
+      <b>Time To Market</b>
+    </td>
+    <td rowspan="1">
+      <p>
+<ul>
+  
+<li> MS 1 - Middle of ENACT's lifetime: Testing new technology is under progress and TRL 3 reached. Partial results promoted towards Product Line Management. Step 1 in the company Product Life Cycle Management process: formal decision to include in the official roadmap.</li>
+
+<li>MS 2 -  End of ENACT: Step 2 of the Product Life Cycle Management: GO for industrialization and announcement.  TRL 6/7 reached for some parts TRL8/9. Product management team prepares sales and training material, Delivery team prepares software distribution, Support team prepares helpdesk processes. Revenue increase.</li>
+
+<li>MS 3 -  After end of ENACT (2 years): Step 3 of the Life Cycle Management (max 6 months after the end of the project): GO for General Shipment.  Press release and communications about the new product offer, now on sale.</li>
+
+<li>MS 4 -  5 years later: Deployment of the solution at key customers in the manufacturing  sector, acquisition of new customers in other sectors of Industry. Praised by analysts as a major European vendor for IoT security. </li>
+</ul></p></td></tr></table>
+
+
 ### Unique Value proposition
 
 <table>
