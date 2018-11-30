@@ -50,7 +50,7 @@ The following table summarizes the business models produced and their main contr
   </tr>
   <tr>
     <td class="tg-yw4l">CNRS</td>
-    <td class="tg-yw4l">Actuation Conflict Management & Behavioral Drift Analysis Tool</td>
+    <td class="tg-yw4l">[Actuation Conflict Management & Behavioral Drift Analysis Tool] (https://enactproject.github.io/ENACT-Business-Models/ACM&BDA)</td>
   </tr>
   <tr>
     <td class="tg-yw4l">SINTEF</td>
