@@ -272,8 +272,8 @@ Cost du bring product/service to the “market” (before Exploitation):
 
 <li> Cost of 1 P.Y. for Product Marketing and Communication: build collaterals, deliver marketing materials, organize communication events</li></ul>
       
-     </p>
-    </td>
+   </p>
+  </td>
   </tr>
    <tr>
     <td rowspan="1">
