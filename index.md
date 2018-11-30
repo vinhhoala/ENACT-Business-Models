@@ -38,7 +38,6 @@ From these perspectives, all of the ENACT partners have carried out a wide range
 
 The following table summarizes the business models produced and their main contributors:
 
-/***
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Main Contributor</b></th>
@@ -48,6 +47,29 @@ The following table summarizes the business models produced and their main contr
     <td class="tg-yw4l">CNRS</td>
     <td class="tg-yw4l">Actuation Conflict Management & Behavioral Drift Analysis Tool</td>
   </tr>
- 
+  <tr>
+    <td class="tg-yw4l">SINTEF</td>
+    <td class="tg-yw4l">GeneSIS Tool</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">EVIDIAN</td>
+    <td class="tg-yw4l">Context-Aware Access Control Tool</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">EDI</td>
+    <td class="tg-yw4l">Business Model for the ITS domain</td>
+  </tr>
+     <tr>
+    <td class="tg-yw4l">UDE</td>
+    <td class="tg-yw4l">Online Learning</td>
+  </tr>
+     <tr>
+    <td class="tg-yw4l">INDRA</td>
+    <td class="tg-yw4l">Business Model for the ITS domain</td>
+  </tr>
+     <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Root Cause Analysis Tool</td>
+  </tr>
 </table>
-***/
+
