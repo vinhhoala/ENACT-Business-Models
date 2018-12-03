@@ -82,7 +82,7 @@ The following table summarizes the business models produced and their main contr
   </tr>
      <tr>
     <td class="tg-yw4l">Tellu</td>
-    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/eHealth&ThingML-TellU">Business Model for the eHealth domain and the ThingML tool</a></td>
+    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/eHealth&ThingML-TellU">Business Model for the  Digital Health domain and the ThingML tool</a></td>
   </tr>
 </table>
 
