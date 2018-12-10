@@ -236,7 +236,7 @@ Research project, open source repositories
 
 <li>Software distribution and administration</li>
 
-<li>Participate in  meeting>/li>
+<li>Participate in  meeting</li>
 
 <li>Contribute to standard definition</li></ul>
      </p>
