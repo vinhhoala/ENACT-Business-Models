@@ -54,7 +54,7 @@ The following table summarizes the business models produced and their main contr
   </tr>
   <tr>
     <td class="tg-yw4l">SINTEF</td>
-    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/GeneSIS">GeneSIS Tool</a></td>
+    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/GeneSIS">Orchestration and Deployment Tool</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">EVIDIAN</td>
