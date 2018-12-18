@@ -1,6 +1,6 @@
 # Root Cause Analysis - Business Model
 
-This page contains the business model for the Root Cause Analysis tool.
+This page contains the business model for the Root Cause Analysis tool. This tool will allow performing root-cause analysis on a complex system by finding failure patterns that are similar to previously found problems.
 
 
 ![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/RCA.png?raw=true "RCA")
@@ -25,7 +25,7 @@ This page contains the business model for the Root Cause Analysis tool.
     <td rowspan="1">
       <p>
         
-Monitoring has always been a crtitical feature for IT management. However, large deployments suffer from the "christmas tree" effect: lots of alarms triggering at the same time requires lots of expertise for administrators to identify the correct culprits and ignore false alarms. There are systems that can perform root cause analysis of an infrastructure, but they require deep domain knowledge, which is impractical to elicit and maintain in large and fast changing deployments. Customers are continually looking to automate the identification of critical errors within enterprise scale deployments enabling faster and more accurate root cause analysis</p>
+Monitoring has always been a critical feature for IT management. However, large deployments suffer from the "christmas tree" effect: lots of alarms triggering at the same time requires lots of expertise for administrators to identify the correct culprits and ignore false alarms. There are systems that can perform root cause analysis of an infrastructure, but they require deep domain knowledge, which is impractical to elicit and maintain in large and fast changing deployments. Customers are continually looking to automate the identification of critical errors within enterprise scale deployments enabling faster and more accurate root cause analysis</p>
     </td>
   </tr>
   <tr>
