@@ -1,6 +1,6 @@
 # GeneSIS - Business Model
 
-This page contains the business model for the GeneSIS tool.
+This page contains the business model for the GeneSIS (Orchestration and deployment) tool. GeneSIS facilitates the development and continuous deployment of smart IoT systems, allowing decentralized processing across heterogeneous IoT, edge and cloud infrastructures. GeneSIS includes: (i) a domain-specific modelling language to model the orchestration and deployment of smart IoT systems; and (ii) an execution engine that support the orchestration of IoT, edge and cloud services as well as their automatic deployment across IoT, edge and cloud infrastructure resources.
 
 ![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/GeneSIS.png?raw=true "GeneSIS")
 
@@ -23,7 +23,7 @@ This page contains the business model for the GeneSIS tool.
     </td>
     <td rowspan="1">
       <p>
-        Needs deployment over IoT, Edge and Cloud. Need support for trustworthy deployment (i.e., support for deploying trustworthiness mechanisms and Mechanisms to properly monitor what has been deployed)
+        Needs continuous deployment over IoT, Edge and Cloud. Need support for trustworthy deployment (i.e., support for deploying trustworthiness mechanisms and Mechanisms to properly monitor what has been deployed)
 
 </p>
     </td>
@@ -34,7 +34,7 @@ This page contains the business model for the GeneSIS tool.
     <td rowspan="1">
       <p>
         
-Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud infrastructure, (ii) No monitoring of the execution flow of the app. This is particularly relevant for debugging on IoT devices (as this is typically a complicated task), (iii) deployment tool do not integrate with security and privacy tools.
+Current solutions: (i) No deployment solution tailored for IoT, Edge, and Cloud infrastructure, (ii) No monitoring of the execution flow of the application. This is particularly relevant for debugging on IoT devices (as this is typically a complicated task), (iii) deployment tool do not integrate with security and privacy tools.
 
   </p>
     </td>
@@ -63,7 +63,7 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud 
 
 <li>Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: standardization</li>
 
-<li> Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: open source community</li></ul>
+<li> Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: reaching or building open source community</li></ul>
 
  </p>
     </td>
@@ -117,7 +117,7 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and cloud 
     <td rowspan="1">
       <p>
 
-TRL8
+TRL6-8
       </p>
     </td>
       </tr>    
@@ -132,9 +132,9 @@ TRL8
     </td>
     <td rowspan="1">
       <p>
-Solution has been designed with specific support for all the infrastructure continuum. It is technology agnostic as well as cloud and platform independent. Faster time-to-market, better agility
+Solution has been designed with specific support for all the infrastructure continuum. It is technology agnostic as well as cloud and platform independent. Faster time-to-market, better agility. It seamlessly integrates with security and privacy mechanisms for better trustworthiness.
 
-Same language includes runtime information, and in particular execution flow can be monitored when ThingML is used. Faster time-to-market, better agility  </p>
+Same language includes runtime information, and in particular execution flow can be monitored when ThingML is used. Faster time-to-market, better agility. </p>
     </td>
   </tr>
   <tr>
@@ -164,7 +164,7 @@ Same language includes runtime information, and in particular execution flow can
     </td>
     <td rowspan="1">
       <p>
-      Industry partner willing to improve his software delivery process </p>
+      Industry partner willing to improve his software delivery process.</p>
     </td>
   </tr>
   <tr>
