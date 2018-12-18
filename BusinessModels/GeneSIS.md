@@ -1,4 +1,4 @@
-# GeneSIS - Business Model
+# Orchestration and Deployment - Business Model
 
 This page contains the business model for the GeneSIS (Orchestration and deployment) tool. GeneSIS facilitates the development and continuous deployment of smart IoT systems, allowing decentralized processing across heterogeneous IoT, edge and cloud infrastructures. GeneSIS includes: (i) a domain-specific modelling language to model the orchestration and deployment of smart IoT systems; and (ii) an execution engine that support the orchestration of IoT, edge and cloud services as well as their automatic deployment across IoT, edge and cloud infrastructure resources.
 
