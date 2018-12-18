@@ -4,7 +4,7 @@
 ![Alt text](https://www.enact-project.eu/img/logo-enact-blue2.png "ENACT Logo")
 Welcome to the ENACT Business Models page!
 
-In this website you will find the business models produced be ENACT partners enabled by the technologies developed in the project for the different stakeholders of the DevOps cycle: App Developers, App Operators, App Owners and End Users.
+In this website you will find the business models produced by ENACT partners enabled by the technologies developed in the project for the different stakeholders of the DevOps cycle: App Developers, App Operators, App Owners and End Users.
 
 ## Business Models
 
