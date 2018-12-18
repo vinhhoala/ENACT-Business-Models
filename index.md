@@ -1,7 +1,7 @@
 # ENACT Business Models
 
 
-![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/ENACT.png?raw=true "ENACT Logo")
+![Alt text](https://www.enact-project.eu/img/logo-enact-blue2.png "ENACT Logo")
 Welcome to the ENACT Business Models page!
 
 In this website you will find the business models produced be ENACT partners enabled by the technologies developed in the project for the different stakeholders of the DevOps cycle: App Developers, App Operators, App Owners and End Users.
@@ -33,9 +33,9 @@ The Business Model Canvas proposed by Osterwalder and Pigneur was later adapted 
 * **Revenue streams**: this element represents the mechanisms and sources for financing and capturing value as a result of the delivery of the solution.
 
 ## Exploitation of ENACT results through Business Models
-The results generated in ENACT aim to provide new business models, activities and projects to the IoT, edge and cloud communities. Using ENACT's agile approach and its innovative enablers and tools, organizations can reduce their costs while improving design, operation and maintenance efficiency of smart IoT systems. The profile of the partners involved in the project ensure a great representation of IoT and DevOps stakeholders: IoT Platform Providers, Smart IoT System Providers, IoT Infrastructure Providers and DevOps Tools and Solutions Providers, and thus can show how the implementation of the innovations produced in ENACT can have a positive impact for the European market.
+The results generated in ENACT aim to provide new business models and opportunities, activities and projects to the IoT, edge and cloud communities. Using ENACT's Agile and DevOps approach and its innovative enablers and tools, organizations can reduce their costs while improving design, operation and maintenance efficiency of trustworthy smart IoT systems. The profile of the partners involved in the project ensure a great representation of IoT and DevOps stakeholders: IoT Platform Providers, Smart IoT System Providers, IoT Infrastructure Providers and DevOps Tools and Solutions Providers, and thus can show how the implementation of the innovations produced in ENACT can have a positive impact for the European market.
 
-From these perspectives, all of the ENACT partners have carried out a wide range of activities (developments, market and technical research, etc.) that have allowed them to identify products, services and other exploitation forms to be pursued and in some cases commercialized once ENACT is concluded. Uisng the Lean Canvas as a framework, they have produced business models for the ENACT results: 
+From these perspectives, all of the ENACT partners have carried out a wide range of activities (developments, market and technical research, etc.) that have allowed them to identify products, services and other exploitation forms to be pursued and in some cases commercialized once ENACT is concluded. Using the Lean Canvas as a framework, they have produced business models for the ENACT results: 
 
 * The main innovations resulting from the project are the set of enablers and tools; for each one of these tools, the partners of ENACT have produced a business model.
 
