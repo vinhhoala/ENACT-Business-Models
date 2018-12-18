@@ -1,6 +1,6 @@
 # Security Monitoring and Control - Business Model
 
-This page contains the business model for the Security Monitoring and Control tool.
+This page contains the business model for the Security Monitoring and Control tool. This tool will offer IoT system operators with the possibility of controlling the security of their system with a minimal intervention and full integration with security-by-design (risk analysis) mechanisms used, following the DevOps approach
 
 ![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/SPC.png?raw=true "SPC")
 
@@ -24,7 +24,7 @@ This page contains the business model for the Security Monitoring and Control to
     </td>
     <td rowspan="1">
       <p>
-        The lack of holistic security assurance for IoT systems, companies cannot guarantee high security and privacy levels. It is difficult to monitor IoT environments, and lack of automatic remediation in case of SLA violation.Compliance with GDPR requires systematisation of security and privacy assurance mechanisms and evidences be collected.
+        The lack of holistic security assurance for IoT systems, companies cannot guarantee high security and privacy levels. It is difficult to monitor IoT environments, and lack of automatic remediation in case of SLA violation. Compliance with GDPR requires systematisation of security and privacy assurance mechanisms and evidences be collected.
 
 </p>
     </td>
@@ -167,7 +167,7 @@ Monitoring for controlling the security of the multi-cloud applications, conside
       <b>Segment</b>
     </td>
     <td rowspan="1">
-      <p>IoT systems in any domain. Full funcitonality will be exploited in SOFIA (SMOOL) based IoT systems.
+      <p>IoT systems in any domain. Full functionality will be exploited in SOFIA (SMOOL) based IoT systems.
     </p>
     </td>
   </tr>
