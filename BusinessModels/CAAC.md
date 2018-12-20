@@ -120,7 +120,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
    </tr>
     <tr>
     <td rowspan="1">
-      <b>Time To Market</b>
+      <b>Time To Market / TRL at the end of the project</b>
     </td>
     <td rowspan="1">
       <p>
