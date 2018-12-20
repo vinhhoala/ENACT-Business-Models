@@ -109,7 +109,7 @@ Number and type of early adopters besides ENACT end-users. Number and types of t
       </tr>
     <tr>
     <td rowspan="1">
-      <b>Time To Market</b>
+      <b>Time To Market / TRL at the end of the project</b>
     </td>
     <td rowspan="1">
       <p>
