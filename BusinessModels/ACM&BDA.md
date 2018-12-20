@@ -121,7 +121,7 @@ This page contains the business model for the Actuation Conflict Management & Be
   </tr>
   <tr>
     <td rowspan="1">
-      <b>Time to Market</b> </td>
+      <b>Time To Market / TRL at the end of the project</b> </td>
     <td rowspan="1">
       <p>1 year after licencing with an industrial partner.</p>
     </td>
