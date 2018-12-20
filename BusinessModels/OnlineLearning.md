@@ -85,7 +85,7 @@ Current online learning solutions were devised for systems (such as cloud and we
       </tr>
     <tr>
     <td rowspan="1">
-      <b>Time To Market</b>
+      <b>Time To Market / TRL at the end of the project</b>
     </td>
     <td rowspan="1">
       <p>
