@@ -7,7 +7,7 @@ This page contains the business model for the Root Cause Analysis tool. This too
 
 ## Main Contributor
 
-**Partner:** CA Technologies
+**Partner:** Beawre
 
 **Category:** Industrial
 
