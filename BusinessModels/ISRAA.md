@@ -107,7 +107,7 @@ Nowadays in Italy there are not main player who deliver an ICT integrated platfo
       <b>Time To Market / TRL at the end of the project</b>
     </td>
     <td rowspan="1">
-      <p></p>
+      <p> </p>
     </td>
       </tr>    
   </table>
