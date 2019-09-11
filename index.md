@@ -80,6 +80,10 @@ The following table summarizes the business models produced and their main contr
     <td class="tg-yw4l">Beawre</td>
     <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/RCA">Root Cause Analysis Tool</a></td>
   </tr>
+   <tr>
+    <td class="tg-yw4l">Beawre</td>
+    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/RiskManagement">Risk Management Tool</a></td>
+  </tr>
   <tr>
     <td class="tg-yw4l">Tecnalia</td>
     <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/SMC">Security Monitoring and Control tool</a></td>
