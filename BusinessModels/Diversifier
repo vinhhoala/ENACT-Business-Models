@@ -2,7 +2,7 @@
 
 This page contains the business model for the Diversifier tool. The ENACT Diversifier automatically generates, for a smart IoT system, the alternative components with different message protocols, and the alternative global deployments with different stacks, libraries and configurations.
 
-![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/GeneSIS.png?raw=true "GeneSIS")
+![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/Diversifier.png?raw=true "Diversifier")
 
 ## Main Contributor
 
