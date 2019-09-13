@@ -89,7 +89,7 @@ Current online learning solutions were devised for systems (such as cloud and we
     </td>
     <td rowspan="1">
       <p>
-TRL4
+Expected TRL4 at the end of the project
       </p>
     </td>
       </tr>    
