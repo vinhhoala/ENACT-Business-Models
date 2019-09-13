@@ -34,7 +34,7 @@ Monitoring has always been a critical feature for IT management. However, large 
     <td rowspan="1">
       <p>
         
-Limited alternatives in this area. CA is a leader in the domain.</p>
+Limited alternatives in this area.</p>
     </td>
       </tr>
 </table>
@@ -54,14 +54,14 @@ Limited alternatives in this area. CA is a leader in the domain.</p>
     <td rowspan="1">
       <b>Exploitation Form</b> </td>
     <td rowspan="1">
-      <p>Technology and Knowledge transfer from the research project to the Application Performance Management (APM) group in CA Technologies will put the research outcome into a product team and possibly become an integral part of the APM product for general sale worldwise. It is not anticipated that this will be licenced to third parties  </p>
+      <p>Technology and Knowledge transfer from the research project to the Application Performance Management (APM) group in Beawre  will put the research outcome into a product team and possibly become an integral part of the APM product for general sale worldwise. It is not anticipated that this will be licenced to third parties  </p>
     </td>
       </tr>
     <tr>
     <td rowspan="1">
       <b>IPR Background </b> </td>
     <td rowspan="1">
-      <p>Root Cause analysis has been one of the main research threads with CA Technologies Strategic research and part of other research projects. The team has considerable expertise in AI extensions to RCA prior to engaging in the ENACT project </p>
+      <p>Root Cause analysis has been one of the main research threads with Beawre research and part of other research projects. The team has considerable expertise in AI extensions to RCA prior to engaging in the ENACT project </p>
     </td>
       </tr>
    <tr>
@@ -168,7 +168,7 @@ The customers will be users of the APM product and will be buying more functiona
     <td rowspan="1">
       <p>
 
-CA's Direct high value customer sales teams CA's extensive partner network and CA marketing/PR teams
+Beawre's Direct high value customer sales teams Beawre's extensive partner network and Beawre marketing/PR teams
      </p>
     </td>
   </tr>
@@ -179,7 +179,7 @@ CA's Direct high value customer sales teams CA's extensive partner network and C
     <td rowspan="1">
       <p>
  
-CA's Direct high value customer sales teams CA's extensive partner network
+Beawre's Direct high value customer sales teams Beawre's extensive partner network
    </p>
     </td>
   </tr>
@@ -219,7 +219,7 @@ Unable to evaluate costs of a PI plan unti the plan is formed
       <b>Sources of financing foreseen after the end of the project </b>
     </td>
     <td rowspan="1">
-      <p>Unbale to evaluate. CA does not breakdown the costs of an individual component</p>
+      <p>Unbale to evaluate. Beawre does not breakdown the costs of an individual component</p>
     </td>
   </tr>
    <tr>
@@ -227,7 +227,7 @@ Unable to evaluate costs of a PI plan unti the plan is formed
       <b> Revenue Sources</b>
     </td>
     <td rowspan="1">
-      <p>Revenue is likely to be from subscription or purchase of product licencing and SaaS implementations. Other sources will likely be from CA Partnership agreements with partner network
+      <p>Revenue is likely to be from subscription or purchase of product licencing and SaaS implementations. Other sources will likely be from Beawre Partnership agreements with partner network
 </p>
     </td>
   </tr>
