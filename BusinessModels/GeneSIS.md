@@ -117,7 +117,7 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and Cloud 
     <td rowspan="1">
       <p>
 
-TRL6-8
+TRL 8 at the end of the Project
       </p>
     </td>
       </tr>    
