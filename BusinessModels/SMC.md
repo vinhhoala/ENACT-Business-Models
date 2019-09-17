@@ -62,6 +62,7 @@ ENACT Security Monitoring and Control Enabler
       <p>
 
 The Enabler prototype will be a software product and consultancy service for product customisation will be offered together. 
+Technology transfer of open source parts. Licensing of closed parts (advanced features).
 
 
  </p>
