@@ -76,10 +76,6 @@ The following table summarizes the business models produced and their main contr
     <td class="tg-yw4l">INDRA</td>
     <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/ITS-INDRA">Business Model for the ITS domain</a></td>
   </tr>
-     <tr>
-    <td class="tg-yw4l">Beawre</td>
-    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/RCA">Root Cause Analysis Tool</a></td>
-  </tr>
    <tr>
     <td class="tg-yw4l">Beawre</td>
     <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/RiskManagement">Risk Management Tool</a></td>
