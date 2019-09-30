@@ -92,5 +92,9 @@ The following table summarizes the business models produced and their main contr
     <td class="tg-yw4l">ISRAA</td>
     <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/ISRAA">Business Model for the  Digital Health domain</a></td>
   </tr>
+    <tr>
+    <td class="tg-yw4l">Montimage</td>
+    <td class="tg-yw4l"><a href= "https://enactproject.github.io/ENACT-Business-Models/BusinessModels/RCA">Root Cause Analysis Tool</a></td>
+  </tr>
 </table>
 
