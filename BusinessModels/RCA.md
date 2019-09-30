@@ -7,11 +7,11 @@ This page contains the business model for the Root Cause Analysis tool. This too
 
 ## Main Contributor
 
-**Partner:** Beawre
+**Partner:** Montimage
 
 **Category:** Industrial
 
-**Type:** DevOps Solutions and Infrastructure Management provider
+**Type:** Cybersecurity solutions provider
 
 ## Lean Canvas
 
@@ -25,7 +25,7 @@ This page contains the business model for the Root Cause Analysis tool. This too
     <td rowspan="1">
       <p>
         
-Monitoring has always been a critical feature for IT management. However, large deployments suffer from the "christmas tree" effect: lots of alarms triggering at the same time requires lots of expertise for administrators to identify the correct culprits and ignore false alarms. There are systems that can perform root cause analysis of an infrastructure, but they require deep domain knowledge, which is impractical to elicit and maintain in large and fast changing deployments. Customers are continually looking to automate the identification of critical errors within enterprise scale deployments enabling faster and more accurate root cause analysis</p>
+Monitoring has always been a crtitical feature for IT management. However, large deployments suffer from the "christmas tree" effect: lots of alarms triggering at the same time requires lots of expertise for administrators to identify the correct culprits, ignore false alarms and trigger the right countermeasure. There are systems that can perform root cause analysis of an infrastructure, but they require deep domain knowledge, which is impractical to elicit and maintain in large and fast changing deployments. Customers are continually looking to automate the identification of critical errors within enterprise scale deployments enabling faster and more accurate root cause analysis in order to facilate the decision making regarding their mitigation</p>
     </td>
   </tr>
   <tr>
@@ -54,21 +54,21 @@ Limited alternatives in this area.</p>
     <td rowspan="1">
       <b>Exploitation Form</b> </td>
     <td rowspan="1">
-      <p>Technology and Knowledge transfer from the research project to the Application Performance Management (APM) group in Beawre  will put the research outcome into a product team and possibly become an integral part of the APM product for general sale worldwise. It is not anticipated that this will be licenced to third parties  </p>
+      <p>Montimage will put the research outcome related to root cause analysis into a product that will extend the company portfolio. The product will also be integrated into to monitoring solution of Montimage (MMT) to allow better insight on detected functional and non-functional incidents. The product tool will be called MMT-RCA and will be exploited by selling licences and by offring IT services arount it to adapt to some customers needs.  </p>
     </td>
       </tr>
     <tr>
     <td rowspan="1">
       <b>IPR Background </b> </td>
     <td rowspan="1">
-      <p>Root Cause analysis has been one of the main research threads with Beawre research and part of other research projects. The team has considerable expertise in AI extensions to RCA prior to engaging in the ENACT project </p>
+      <p>Root Cause analysis has been one of the main research threads with Montimage strategic research. The team has considerable expertise in AI extensions to RCA prior to engaging in the ENACT project.</p>
     </td>
       </tr>
    <tr>
     <td rowspan="1">
       <b>Description </b> </td>
     <td rowspan="1">
-      <p>There have been no plans for development of this technology as a separate product. It will either become fully integrated in the APM product or become a paid for extension </p>
+      <p>There is a plan for the development of this technology as a separate product. It will either be proposed as a licenced solution or become integrated in the MMT product as a paid extension</p>
     </td>
       </tr>
      <tr>
@@ -88,7 +88,7 @@ Limited alternatives in this area.</p>
       <b>KPIs</b>
     </td>
     <td rowspan="1">
-      <p>KPI1: Acceptance as a backlog entry in APM development, KPI2: Inclusion in a PI plan for  future development and deployment </p>
+      <p>KPI1: Acceptance in helping in decision making for the mitigation of detected incidents, KPI2: Inclusion in an innovation plan for  future development and deployment</p>
     </td>
       </tr>
     <tr>
@@ -98,7 +98,7 @@ Limited alternatives in this area.</p>
     <td rowspan="1">
       <p>
 
-At the end of the project it is anticipated as TRL4 - proven in Lab. After potential transfer to CA development the initial plan will be TRL5 moving up the levels once validated in customer sites
+At the end of the project it is anticipated as TRL4 - proven in Lab. After potential transfer to Montimage development the initial plan will be TRL5 moving up the levels once validated in customer sites
       </p>
     </td>
       </tr>    
@@ -114,7 +114,7 @@ At the end of the project it is anticipated as TRL4 - proven in Lab. After poten
     <td rowspan="1">
       <p>
 
-APM already has a triage capability however this needs further automation to include improved  RCA, including recognition of the source of a fault beyond the existing stories  </p>
+Montimage monitoring solution already has a triage capability however this needs further automation to include improved  RCA, including recognition of the source of a fault beyond the existing stories and determining the adapted countermeasure to perform </p>
     </td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@ APM already has a triage capability however this needs further automation to inc
       <b>Unfair Advantage</b>
     </td>
     <td rowspan="1">
-      <p>Difficult to evaluate since it will potentially become part of a larger product and will not be sold as standalone</p>
+      <p>Will rely on explainable artificial intelligence algorithms providing thus more transparency</p>
     </td>
   </tr>
 </table>
@@ -145,7 +145,7 @@ APM already has a triage capability however this needs further automation to inc
     <td rowspan="1">
       <p>
         
-The customers will be users of the APM product and will be buying more functionality than just the RCA capability </p>
+The customers will be users of the MMT monitoring product and will be buying more functionality than just the RCA capability or Customers that already have different monitoring agent and have difficulties to understand to issue and how to solve them.</p>
     </td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ The customers will be users of the APM product and will be buying more functiona
       <b>Segment</b>
     </td>
     <td rowspan="1">
-      <p>The target market is for enterprise APM users who need to monitor and manage applications running in a wide number of domains
+      <p>The target market is for IoT users who need to monitor and manage applications running in a wide number of domains. We will start with the Domains proposed in ENACT project
     </p>
     </td>
   </tr>
@@ -168,7 +168,7 @@ The customers will be users of the APM product and will be buying more functiona
     <td rowspan="1">
       <p>
 
-Beawre's Direct high value customer sales teams Beawre's extensive partner network and Beawre marketing/PR teams
+Emails, Flyers, Website, Social media, Industrial events, PoC
      </p>
     </td>
   </tr>
@@ -179,7 +179,7 @@ Beawre's Direct high value customer sales teams Beawre's extensive partner netwo
     <td rowspan="1">
       <p>
  
-Beawre's Direct high value customer sales teams Beawre's extensive partner network
+Montimage Website and ENACT distribution channel
    </p>
     </td>
   </tr>
@@ -194,7 +194,7 @@ Beawre's Direct high value customer sales teams Beawre's extensive partner netwo
     <td rowspan="1">
       <p>
 
-Unable to evaluate costs of a PI plan unti the plan is formed
+Unavailable
      </p>
     </td>
   </tr>
@@ -205,7 +205,7 @@ Unable to evaluate costs of a PI plan unti the plan is formed
     <td rowspan="1">
       <p>
       
-Unable to evaluate costs of a PI plan unti the plan is formed
+Unavailable
      </p>
     </td>
   </tr>
@@ -219,7 +219,7 @@ Unable to evaluate costs of a PI plan unti the plan is formed
       <b>Sources of financing foreseen after the end of the project </b>
     </td>
     <td rowspan="1">
-      <p>Unbale to evaluate. Beawre does not breakdown the costs of an individual component</p>
+      <p>Unavailable</p>
     </td>
   </tr>
    <tr>
@@ -227,7 +227,7 @@ Unable to evaluate costs of a PI plan unti the plan is formed
       <b> Revenue Sources</b>
     </td>
     <td rowspan="1">
-      <p>Revenue is likely to be from subscription or purchase of product licencing and SaaS implementations. Other sources will likely be from Beawre Partnership agreements with partner network
+      <p>Revenue is likely to be from subscription or purchase of product licencing and SaaS implementations as well as IT consulting around the product. Other sources will likely be from Montimage Partnership agreements with partner network
 </p>
     </td>
   </tr>
