@@ -88,7 +88,9 @@ Limited alternatives in this area.</p>
       <b>KPIs</b>
     </td>
     <td rowspan="1">
-      <p>KPI1: Acceptance in helping in decision making for the mitigation of detected incidents, KPI2: Inclusion in an innovation plan for  future development and deployment</p>
+      <li>Code delivered on a public repository (e.g., github, gitlab) together with documentation and tutorials.</li>
+      <li>Acceptance in helping in decision making for the mitigation of detected incidents</li> 
+      <li>Inclusion in an innovation plan for future development and deployment</li>
     </td>
       </tr>
     <tr>
@@ -96,10 +98,7 @@ Limited alternatives in this area.</p>
       <b>Time To Market / TRL at the end of the project</b>
     </td>
     <td rowspan="1">
-      <p>
-
-At the end of the project it is anticipated to reach TRL4 - proven in Lab. After potential transfer to Montimage development the initial plan will reach TRL5, and go higher once validated in customer sites
-      </p>
+      <p>At the end of the project it is anticipated to reach TRL4 - proven in Lab. After potential transfer to Montimage development the initial plan will reach TRL5, and go higher once validated in customer sites</p>
     </td>
       </tr>    
   </table>
@@ -112,9 +111,7 @@ At the end of the project it is anticipated to reach TRL4 - proven in Lab. After
       <b>Value added by the solution</b>
     </td>
     <td rowspan="1">
-      <p>
-
-Montimage monitoring solution already has sorting capabilities. However, this needs further automation to include improved  RCA, including recognition of the source of a fault beyond the existing stories and determining the adapted countermeasure to perform </p>
+      <p>Montimage monitoring solution already has sorting capabilities. However, this needs further automation to include improved  RCA, including recognition of the source of a fault beyond the existing stories and determining the adapted countermeasure to perform.</p>
     </td>
   </tr>
   <tr>
@@ -122,7 +119,7 @@ Montimage monitoring solution already has sorting capabilities. However, this ne
       <b>Unfair Advantage</b>
     </td>
     <td rowspan="1">
-      <p>Will rely on explainable artificial intelligence algorithms providing thus more transparency</p>
+      <p>The solution relies on explainable artificial intelligence algorithms providing thus more transparency</p>
     </td>
   </tr>
 </table>
@@ -143,9 +140,7 @@ Montimage monitoring solution already has sorting capabilities. However, this ne
       <b>Potential customers</b>
     </td>
     <td rowspan="1">
-      <p>
-        
-The customers will be users of the MMT monitoring product and will be buying more functionality than just the RCA capability or Customers that already have different monitoring agent and have difficulties to understand to issue and how to solve them.</p>
+      <p>The customers will be the system administrators, e.g., Users of the MMT monitoring product and or Customers that already have different monitoring agents, but have difficulties understanding the root causes of the issues detected and how to solve them.</p>
     </td>
   </tr>
   <tr>
@@ -153,7 +148,7 @@ The customers will be users of the MMT monitoring product and will be buying mor
       <b>Segment</b>
     </td>
     <td rowspan="1">
-      <p>The target market is for IoT users who need to monitor and manage applications running in a wide number of domains. We will start with the Domains proposed in ENACT project
+      <p>One of the target markets is for IoT users who need to monitor and manage applications running in a wide number of domains. We will start with the Domains proposed in ENACT project
     </p>
     </td>
   </tr>
@@ -192,10 +187,8 @@ Montimage Website and ENACT distribution channel
       <b>Cost of implementation </b>
     </td>
     <td rowspan="1">
-      <p>
-
-Unavailable
-     </p>
+      <li>Administration team</li>
+      <li>Development and research team</li>
     </td>
   </tr>
    <tr>
@@ -203,10 +196,7 @@ Unavailable
       <b> Cost Sources</b>
     </td>
     <td rowspan="1">
-      <p>
-      
-Unavailable
-     </p>
+      <li>Software administration and maintenance</li>
     </td>
   </tr>
 </table>
@@ -219,7 +209,7 @@ Unavailable
       <b>Sources of financing foreseen after the end of the project </b>
     </td>
     <td rowspan="1">
-      <p>Unavailable</p>
+      <p>Montimage will invest to continue enhancing and making it applicable to different domains</p>
     </td>
   </tr>
    <tr>
@@ -227,7 +217,7 @@ Unavailable
       <b> Revenue Sources</b>
     </td>
     <td rowspan="1">
-      <p>Revenue is likely to be from subscription or purchase of product licencing and SaaS implementations as well as IT consulting around the product. Other sources will likely be from Montimage Partnership agreements with partner network
+      <p>Revenue will come from subscriptions (e.g., SaaS) or product licencing, as well as IT consulting/support/training around the product. Other sources will likely be from Montimage Partnership agreements with partner network
 </p>
     </td>
   </tr>
