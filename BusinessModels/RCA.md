@@ -54,14 +54,14 @@ Limited alternatives in this area.</p>
     <td rowspan="1">
       <b>Exploitation Form</b> </td>
     <td rowspan="1">
-      <p>Montimage will put the research outcome related to root cause analysis into a product that will extend the company portfolio. The product will also be integrated into to monitoring solution of Montimage (MMT) to allow better insight on detected functional and non-functional incidents. The product tool will be called MMT-RCA and will be exploited by selling licences and by offring IT services arount it to adapt to some customers needs.  </p>
+      <p>Montimage will put the research outcome related to root cause analysis into a product that will extend the company portfolio. The product will also be integrated into the monitoring solution of Montimage (MMT) to allow better insight on detected functional and non-functional incidents. The product tool will be called MMT-RCA and will be exploited by selling licences and by offring IT services arount it to adapt to specific customers needs.  </p>
     </td>
       </tr>
     <tr>
     <td rowspan="1">
       <b>IPR Background </b> </td>
     <td rowspan="1">
-      <p>Root Cause analysis has been one of the main research threads with Montimage strategic research. The team has considerable expertise in AI extensions to RCA prior to engaging in the ENACT project.</p>
+      <p>Root Cause analysis is one of the main strategic research topics of Montimage. The team has considerable expertise in AI extensions to RCA prior to engaging in the ENACT project.</p>
     </td>
       </tr>
    <tr>
@@ -98,7 +98,7 @@ Limited alternatives in this area.</p>
     <td rowspan="1">
       <p>
 
-At the end of the project it is anticipated as TRL4 - proven in Lab. After potential transfer to Montimage development the initial plan will be TRL5 moving up the levels once validated in customer sites
+At the end of the project it is anticipated to reach TRL4 - proven in Lab. After potential transfer to Montimage development the initial plan will reach TRL5, and go higher once validated in customer sites
       </p>
     </td>
       </tr>    
@@ -114,7 +114,7 @@ At the end of the project it is anticipated as TRL4 - proven in Lab. After poten
     <td rowspan="1">
       <p>
 
-Montimage monitoring solution already has a triage capability however this needs further automation to include improved  RCA, including recognition of the source of a fault beyond the existing stories and determining the adapted countermeasure to perform </p>
+Montimage monitoring solution already has sorting capabilities. However, this needs further automation to include improved  RCA, including recognition of the source of a fault beyond the existing stories and determining the adapted countermeasure to perform </p>
     </td>
   </tr>
   <tr>
